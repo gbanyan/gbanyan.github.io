@@ -77,5 +77,15 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
+    <item>
+      <title>Creations</title>
+      <link>https://huyan.gbanyan.net/tags/creations/</link>
+      <pubDate>Thu, 08 Mar 2018 14:15:00 +0000</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/tags/creations/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>
