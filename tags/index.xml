@@ -78,11 +78,21 @@
     </item>
     
     <item>
-      <title>Creations</title>
-      <link>https://huyan.gbanyan.net/tags/creations/</link>
-      <pubDate>Thu, 08 Mar 2018 14:15:00 +0000</pubDate>
+      <title>Browsers</title>
+      <link>https://huyan.gbanyan.net/tags/browsers/</link>
+      <pubDate>Sat, 19 Dec 2015 00:55:29 +0000</pubDate>
       
-      <guid>https://huyan.gbanyan.net/tags/creations/</guid>
+      <guid>https://huyan.gbanyan.net/tags/browsers/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Small talk</title>
+      <link>https://huyan.gbanyan.net/tags/small-talk/</link>
+      <pubDate>Sat, 19 Dec 2015 00:55:29 +0000</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/tags/small-talk/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
