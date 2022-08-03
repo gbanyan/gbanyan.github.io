@@ -97,5 +97,15 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
+    <item>
+      <title>Creations</title>
+      <link>https://huyan.gbanyan.net/tags/creations/</link>
+      <pubDate>Sun, 28 Sep 2014 07:37:00 +0000</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/tags/creations/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>
