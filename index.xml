@@ -52,8 +52,9 @@ Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO �
 </li>
 </ul>
 <p>這樣就可以透過 Pfsense 的 LAN 孔存取 Proxmox VE 了</p>
-<p>[![/images/Pasted image 20220814154925.png]]</p>
-<p>[![/images/Proxmox.drawio.png]]</p>
+<p>![](&quot;/images/Pasted image 20220814154925.png&quot;)</p>
+<p><img loading="lazy" src="%22/images/Proxmox.drawio.png%22" alt=""  />
+</p>
 <h3 id="潛在問題">潛在問題</h3>
 <ul>
 <li>Proxmox VE 主機必須要透過 pfSenese 才能連到外網</li>
