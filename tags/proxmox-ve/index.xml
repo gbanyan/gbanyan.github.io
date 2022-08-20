@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>VM on 世界樹下，霍德爾之目</title>
-    <link>https://huyan.gbanyan.net/tags/vm/</link>
-    <description>Recent content in VM on 世界樹下，霍德爾之目</description>
+    <title>Proxmox VE on 世界樹下，霍德爾之目</title>
+    <link>https://huyan.gbanyan.net/tags/proxmox-ve/</link>
+    <description>Recent content in Proxmox VE on 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Aug 2022 13:11:49 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/vm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 13:11:49 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/proxmox-ve/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxmox VE &#43; PfSense 安裝</title>
       <link>https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/</link>

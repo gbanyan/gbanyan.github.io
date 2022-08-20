@@ -13,13 +13,12 @@
       <pubDate>Sat, 20 Aug 2022 13:11:49 +0800</pubDate>
       
       <guid>https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/</guid>
-      <description>Proxmox VE + pfSense 安裝 前言 家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。
+      <description>前言 家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。
 一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。
 Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO 檔，燒錄到 USB 隨身碟，啟動一步一步安裝即可。在高檔硬體配置的重型伺服器，還可以考慮 ZFS 檔案系統，不過只是一台軟路由小主機就一切從簡。
 下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有說明文件(Virtualizing with Proxmox® VE)。以下僅討論個人需求和架設過程中的問題。
 預計架構 軟路由機器有四個實體網路孔, enp1s0, enp2s0, enp3s0, enp4s0 第一個當作 WAN 孔，其餘三孔作為 LAN 孔 Proxmox VE 可以透過 LAN 孔存取 Proxmox VE 之下虛擬化的 pfSense 作為 Router 使用，透過 WAN 進行 PPPoE 撥號 家中其餘網路設備透過 LAN 得到網路存取 問題點 一開始 Proxmox VE 已經建立一個 Linux Bridge, 為 vmbr0, 關聯到 enp1s0, 並已指派原先設定的 IP 192.</description>
-      <content:encoded><![CDATA[<h1 id="proxmox-ve--pfsense-安裝">Proxmox VE + pfSense 安裝</h1>
-<h2 id="前言">前言</h2>
+      <content:encoded><![CDATA[<h2 id="前言">前言</h2>
 <p>家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。</p>
 <p>一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。</p>
 <h2 id="proxmox-ve-安裝-pfsense">Proxmox VE 安裝 pfSense</h2>
@@ -52,7 +51,8 @@ Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO �
 </li>
 </ul>
 <p>這樣就可以透過 Pfsense 的 LAN 孔存取 Proxmox VE 了</p>
-<p>![](/images/Pasted\ image\ 20220814154925.png)</p>
+<p><img loading="lazy" src="/images/ProxmoxVE_network.png" alt=""  />
+</p>
 <p><img loading="lazy" src="/images/Proxmox.drawio.png" alt=""  />
 </p>
 <h3 id="潛在問題">潛在問題</h3>
