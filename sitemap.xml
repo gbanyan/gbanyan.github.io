@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</loc>
-    <lastmod>2022-07-09T21:01:24+08:00</lastmod>
-  </url><url>
     <loc>https://huyan.gbanyan.net/posts/</loc>
+    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/</loc>
+    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/</loc>
+    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</loc>
     <lastmod>2022-07-09T21:01:24+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/tags/</loc>
     <lastmod>2022-07-09T21:01:24+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/tags/website/</loc>
-    <lastmod>2022-07-09T21:01:24+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/</loc>
     <lastmod>2022-07-09T21:01:24+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/tags/creation/</loc>
