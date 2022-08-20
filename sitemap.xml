@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://huyan.gbanyan.net/tags/linux/</loc>
+    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+  </url><url>
     <loc>https://huyan.gbanyan.net/posts/</loc>
     <lastmod>2022-08-20T13:11:49+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/</loc>
     <lastmod>2022-08-20T13:11:49+08:00</lastmod>
   </url><url>
+    <loc>https://huyan.gbanyan.net/tags/</loc>
+    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/tags/vm/</loc>
+    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+  </url><url>
     <loc>https://huyan.gbanyan.net/</loc>
     <lastmod>2022-08-20T13:11:49+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</loc>
-    <lastmod>2022-07-09T21:01:24+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/tags/</loc>
     <lastmod>2022-07-09T21:01:24+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/tags/website/</loc>
@@ -43,9 +49,6 @@
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/07/%E9%96%8B%E7%AB%99%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-07-07T22:09:32+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/tags/linux/</loc>
-    <lastmod>2021-06-15T21:16:59+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2021/06/%E5%86%8D%E6%8E%A2-linux%E6%A1%8C%E9%9D%A2-manjaro-linux-%E7%9A%84%E6%BC%AB%E9%81%8A/</loc>
     <lastmod>2021-06-15T21:16:59+08:00</lastmod>
