@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Windows on 世界樹下，霍德爾之目</title>
-    <link>https://huyan.gbanyan.net/tags/windows/</link>
-    <description>Recent content in Windows on 世界樹下，霍德爾之目</description>
+    <title>Machine_Learning on 世界樹下，霍德爾之目</title>
+    <link>https://huyan.gbanyan.net/tags/machine_learning/</link>
+    <description>Recent content in Machine_Learning on 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 10 Sep 2022 00:26:07 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 00:26:07 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows 11 WSL2 &#43; Tensorflow 安裝筆記</title>
       <link>https://huyan.gbanyan.net/2022/09/windows-11-wsl2--tensorflow-%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</link>
@@ -129,85 +129,6 @@
 </ul>
 </li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Windows 快速鍵彙整</title>
-      <link>https://huyan.gbanyan.net/2022/07/windows-%E5%BF%AB%E9%80%9F%E9%8D%B5%E5%BD%99%E6%95%B4/</link>
-      <pubDate>Sat, 09 Jul 2022 18:10:31 +0800</pubDate>
-      
-      <guid>https://huyan.gbanyan.net/2022/07/windows-%E5%BF%AB%E9%80%9F%E9%8D%B5%E5%BD%99%E6%95%B4/</guid>
-      <description>快速鍵記憶原則: 快速鍵後面搭配的字母常常和功能相關
-視窗操控: 切換視窗: Alt + Tab 切換視窗內分頁: Ctrl + Tab(有分頁軟體適用，如windows系統選項、IE、Chrome、Firefox等等) Alt + F4 關閉視窗 Ctrl + W 關閉分頁(邏輯同上) Win 7 以上 特有:(Win 鍵+ 上下左右、Win + Tab 、Win + M(全部縮小) Win + D 回到桌面 打字、編輯等… Shift + F3 選取後大小寫切換 Win + C 新注音重新選字 (只有在部分軟體支援) 全螢幕模式(大部分為F11，但仍隨軟體而定) Ctrl + F 搜尋(Find) Ctrl + N 所有可編輯文件軟體之開新檔案 Ctrl + O 開啟舊檔(Old) Ctrl + S 存檔(Save) F12 另存新檔 F2 選取檔案後重新命名 Ctrl + A 選取全部 Ctrl + Shift + &amp;gt; : 字型變大 Ctrl + Shift + &amp;lt; : 字型變小 Ctrl + B : 粗體 Ctrl + I : 斜體 Ctrl + T : 刪字線 Ctrl + U : 底線 Ctrl + Shift + L : 按一次項目符號(Bulleted) Ctrl + Shift + L : 按兩次自動編號(Numbered) Ctrl + L : 靠左對齊 Ctrl + C : 靠中對齊 Ctrl + R : 靠右對齊 另外，Shift和Ctrl在選取、移動上有多個應用 複製剪下貼上還原….</description>
-      <content:encoded><![CDATA[<blockquote>
-<p>快速鍵記憶原則:
-快速鍵後面搭配的字母常常和功能相關</p>
-</blockquote>
-<h2 id="視窗操控">視窗操控:</h2>
-<ol>
-<li>切換視窗: Alt + Tab</li>
-<li>切換視窗內分頁: Ctrl + Tab(有分頁軟體適用，如windows系統選項、IE、Chrome、Firefox等等)</li>
-<li>Alt + F4 關閉視窗</li>
-<li>Ctrl + W 關閉分頁(邏輯同上)</li>
-<li>Win 7 以上 特有:(Win 鍵+ 上下左右、Win + Tab 、Win + M(全部縮小)</li>
-<li>Win + D 回到桌面</li>
-</ol>
-<h2 id="打字編輯等">打字、編輯等…</h2>
-<ol>
-<li>Shift + F3 選取後大小寫切換</li>
-<li>Win + C 新注音重新選字 (只有在部分軟體支援)</li>
-<li>全螢幕模式(大部分為F11，但仍隨軟體而定)</li>
-<li>Ctrl + F 搜尋(Find)</li>
-<li>Ctrl + N 所有可編輯文件軟體之開新檔案</li>
-<li>Ctrl + O 開啟舊檔(Old)</li>
-<li>Ctrl + S 存檔(Save)</li>
-<li>F12 另存新檔</li>
-<li>F2 選取檔案後重新命名</li>
-<li>Ctrl + A 選取全部</li>
-<li>Ctrl + Shift + &gt; : 字型變大</li>
-<li>Ctrl + Shift + &lt; : 字型變小</li>
-<li>Ctrl + B : 粗體</li>
-<li>Ctrl + I : 斜體</li>
-<li>Ctrl + T : 刪字線</li>
-<li>Ctrl + U : 底線</li>
-<li>Ctrl + Shift + L : 按一次項目符號(Bulleted)</li>
-<li>Ctrl + Shift + L : 按兩次自動編號(Numbered)</li>
-<li>Ctrl + L : 靠左對齊</li>
-<li>Ctrl + C : 靠中對齊</li>
-<li>Ctrl + R : 靠右對齊</li>
-<li>另外，Shift和Ctrl在選取、移動上有多個應用</li>
-<li>複製剪下貼上還原….懶得打….</li>
-</ol>
-<h2 id="windows-7-以上">Windows 7 以上</h2>
-<ol>
-<li>Win + Tab = Aero [按Tab循環切換視窗]</li>
-<li>Win + E = Windows檔案總管</li>
-<li>Win+ R = 執行</li>
-<li>Win+ F = 搜尋</li>
-<li>Win + X = 行動中心</li>
-<li>Win + L = 鎖定電腦</li>
-<li>Win+ U = 輕鬆存取</li>
-<li>Win + P = 投影機</li>
-<li>Win + T = 循環切換工作列的項目</li>
-<li>Win + S = OneNote 螢幕擷取工具 [要先安裝OneNote]</li>
-<li>Win + M = 所有視窗縮到最小</li>
-<li>Win + D = 顯示／隱藏桌面</li>
-<li>Win+ 上 = 視窗最大化</li>
-<li>Win + 下 = 視窗還原／最小化</li>
-<li>Win + 左 = 視窗靠左並排</li>
-<li>Win + 右 = 視窗靠右並排</li>
-<li>Win + # = 快速啟動＃號程式（程式＃號依造工作列上的順序）</li>
-<li>Win + = = 放大鏡</li>
-<li>Win + 空白 = 所有視窗透明化</li>
-<li>Win + C = 用新注音選取文字後按下此快速鍵，可以還原該字的字根注音部分程式可能必須改用 Alt + Ctrl + V</li>
-<li>Citl + Shift + N 新增資料夾</li>
-</ol>
-<h2 id="windows-10-以上">Windows 10 以上</h2>
-<ol>
-<li>Win鍵 + Ctrl + 左鍵：切換至左側虛擬桌面</li>
-<li>Win鍵 + Ctrl + 右鍵：切換至右側虛擬桌面</li>
-</ol>
 ]]></content:encoded>
     </item>
     

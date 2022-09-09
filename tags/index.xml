@@ -6,13 +6,33 @@
     <description>Recent content in Tags on 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Aug 2022 13:11:49 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 00:26:07 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
       <link>https://huyan.gbanyan.net/tags/linux/</link>
-      <pubDate>Sat, 20 Aug 2022 13:11:49 +0800</pubDate>
+      <pubDate>Sat, 10 Sep 2022 00:26:07 +0800</pubDate>
       
       <guid>https://huyan.gbanyan.net/tags/linux/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Machine_Learning</title>
+      <link>https://huyan.gbanyan.net/tags/machine_learning/</link>
+      <pubDate>Sat, 10 Sep 2022 00:26:07 +0800</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/tags/machine_learning/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://huyan.gbanyan.net/tags/windows/</link>
+      <pubDate>Sat, 10 Sep 2022 00:26:07 +0800</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/tags/windows/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -63,16 +83,6 @@
       <pubDate>Sat, 09 Jul 2022 19:52:57 +0800</pubDate>
       
       <guid>https://huyan.gbanyan.net/tags/book_excerpt/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Windows</title>
-      <link>https://huyan.gbanyan.net/tags/windows/</link>
-      <pubDate>Sat, 09 Jul 2022 18:10:31 +0800</pubDate>
-      
-      <guid>https://huyan.gbanyan.net/tags/windows/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

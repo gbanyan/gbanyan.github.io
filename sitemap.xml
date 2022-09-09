@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://huyan.gbanyan.net/tags/linux/</loc>
-    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/tags/machine_learning/</loc>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/posts/</loc>
-    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/tags/</loc>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/tags/windows/</loc>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/2022/09/windows-11-wsl2--tensorflow-%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</loc>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/</loc>
+    <lastmod>2022-09-10T00:26:07+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/tags/proxmox-ve/</loc>
     <lastmod>2022-08-20T13:11:49+08:00</lastmod>
@@ -14,13 +29,7 @@
     <loc>https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/</loc>
     <lastmod>2022-08-20T13:11:49+08:00</lastmod>
   </url><url>
-    <loc>https://huyan.gbanyan.net/tags/</loc>
-    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
-  </url><url>
     <loc>https://huyan.gbanyan.net/tags/vm/</loc>
-    <lastmod>2022-08-20T13:11:49+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/</loc>
     <lastmod>2022-08-20T13:11:49+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</loc>
@@ -40,9 +49,6 @@
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/07/%E9%AB%98%E6%95%8F%E6%84%9F%E8%80%85%E6%84%9B%E8%87%AA%E5%B7%B1%E7%9A%84-19-%E5%80%8B%E7%B7%B4%E7%BF%92-%E6%9B%B8%E6%91%98/</loc>
     <lastmod>2022-07-09T19:52:57+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/tags/windows/</loc>
-    <lastmod>2022-07-09T18:10:31+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/07/windows-%E5%BF%AB%E9%80%9F%E9%8D%B5%E5%BD%99%E6%95%B4/</loc>
     <lastmod>2022-07-09T18:10:31+08:00</lastmod>
