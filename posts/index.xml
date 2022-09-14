@@ -13,7 +13,7 @@
       <pubDate>Sat, 10 Sep 2022 00:26:07 +0800</pubDate>
       
       <guid>https://huyan.gbanyan.net/2022/09/windows-11-wsl2--tensorflow-%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</guid>
-      <description>前言 原本家裡的個人 PC，只有玩遊戲用途，原先安裝 Windows 已啟動 Secure boot，且又套用 AMD Raid 來擴充磁碟空間儲放 Steam 遊戲 近日研究有使用 Python 機器學習程式撰寫需求 在外面想透過 Tailscale 連回家網路喚醒關機的主機 以前都是在獨立的硬碟安裝 Linux 多重開機，但不在電腦前很難切換 不想破壞原先 Secure boot 設定 不想整個 Windows 推倒重裝 上述原因，興起了研究 Windows 11 WSL2 的念頭 達成目標 在外面可透過路由器送出 wake on lan 訊號使電腦開機 電腦開機進入 Windows 11 後，可透過 tailscale 內網 ssh 連入 Windows (是的，WIndows 11 可以安裝 openssh server) 連入 Windows 後，透過 wsl 命令直接進入虛擬 WSL2 環境 Windows 本身安裝之最新 Nvidia Game Ready Driver，可以提供 WSL2 內部 nvidia-smi 及 cuda 存取，WSL2 不需另外安裝驅動 成功透過 Anaconda 環境執行 Tensorflow 並啟用 GPU 加速，但效能損耗不知道 也並不清楚 AMD Zen CPU 又虛擬化之後，科學運算函式庫的效能情況 安裝步驟 Windows 11 WSL2 安裝 前置條件：</description>
+      <description>前言 原本家裡的個人 PC，只有玩遊戲用途，原先安裝 Windows 已啟動 Secure boot，且又套用 AMD Raid 來擴充磁碟空間儲放 Steam 遊戲 近日研究有使用 Python 機器學習程式撰寫需求 在外面想透過 Tailscale 連回家網路喚醒關機的主機 以前都是在獨立的硬碟安裝 Linux 多重開機，但不在電腦前很難切換 不想破壞原先 Secure boot 設定 不想整個 Windows 推倒重裝 上述原因，興起了研究 Windows 11 WSL2 的念頭 達成目標 在外面可透過路由器送出 wake on lan 訊號使電腦開機 電腦開機進入 Windows 11 後，可透過 tailscale 內網 ssh 連入 Windows (是的，Windows 11 可以安裝 openssh server) 連入 Windows 後，透過 wsl 命令直接進入虛擬 WSL2 環境 Windows 本身安裝之最新 Nvidia Game Ready Driver，可以提供 WSL2 內部 nvidia-smi 及 cuda 存取，WSL2 不需另外安裝驅動 成功透過 Anaconda 環境執行 Tensorflow 並啟用 GPU 加速，但效能損耗不知道 也並不清楚 AMD Zen CPU 又虛擬化之後，科學運算函式庫的效能情況 安裝步驟 Windows 11 WSL2 安裝 前置條件：</description>
       <content:encoded><![CDATA[<ul>
 <li>
 <h2 id="前言">前言</h2>
@@ -34,7 +34,7 @@
 <h2 id="達成目標">達成目標</h2>
 <ul>
 <li>在外面可透過路由器送出 wake on lan 訊號使電腦開機</li>
-<li>電腦開機進入 Windows 11 後，可透過 tailscale 內網 ssh 連入 Windows (是的，WIndows 11 可以安裝 openssh server)</li>
+<li>電腦開機進入 Windows 11 後，可透過 tailscale 內網 ssh 連入 Windows (是的，Windows 11 可以安裝 openssh server)</li>
 <li>連入 Windows 後，透過 wsl 命令直接進入虛擬 WSL2 環境</li>
 <li>Windows 本身安裝之最新 Nvidia Game Ready Driver，可以提供 WSL2 內部 nvidia-smi 及 cuda 存取，WSL2 不需另外安裝驅動</li>
 <li>成功透過 Anaconda 環境執行 Tensorflow 並啟用 GPU 加速，但效能損耗不知道
