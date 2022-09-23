@@ -91,9 +91,13 @@
 </li>
 <li>目前折衷方法：
 <ul>
-<li>需要透過網頁測試者，開啟 Remote Desktop 連線到 Windows 桌面</li>
-<li>Jupyter notebook 環境可透過 Visual Studio Code 套件 ssh 進去連線</li>
-<li><em>或許可以在 WSL2 內安裝 Tailscale, 尚未測試</em></li>
+<li><strong>2022.9.21 更新</strong>
+<ul>
+<li>原有 WSL2 因為沒有 systemd, 故無法正常啟用 tailscale</li>
+<li>自 WSL 0.67 之後，微軟宣布開始支援 systemd, <a href="https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/">參考文件</a></li>
+<li>更新到最新版後，可以在 WSL2 內安裝 tailscale, 可在外網直接連線到 wsl2</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Windows 11 本身可以安裝 openssh-server
