@@ -6,7 +6,95 @@
     <description>Recent content in Life on 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 07 Jul 2022 22:09:32 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Sep 2022 00:57:59 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Mode 黑化指南</title>
+      <link>https://huyan.gbanyan.net/2022/09/dark-mode-%E9%BB%91%E5%8C%96%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Fri, 30 Sep 2022 00:57:59 +0800</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/2022/09/dark-mode-%E9%BB%91%E5%8C%96%E6%8C%87%E5%8D%97/</guid>
+      <description> 前言 眼疾因素，開始追求特殊的黑底白字顯示模式 (Dark mode or night mode) 相信對眼睛的負擔較小，長久工作較不會累 一些研究：Effects of Dark Mode on Visual Fatigue and Acuity in Optical See-Through Head-Mounted Displays improve Visual Acuity Reduces Visual Fatigue Improves Usability and Preference in Dark Environments 也有人認為 Dark mode 讓內容更不易閱讀，反而讓眼睛負擔更重 建議視考慮個人狀況，也有做法是依照日出日落時間自動切換 方向 可操作對象 螢幕： 部分螢幕內建灰階化、電子紙模式，不是黑底白字，但也可以考慮 直接購買 E-ink 螢幕，但螢幕更新率、高成本 作業系統 原生的黑底白字 UI 系統佈景，各家系統包括 iOS, Android 皆有提供，只是可能有過舊版本未能支援 無障礙輔助功能：Windows 的高對比佈景、蘋果生態系的 invert color (反相顏色)，直接強迫所有顯示黑白反相，但是有機率影響應用程式顯示，慎用。 軟體 電腦上的軟體或手機的 App，有的內建Dark mode, 會偵測系統佈景自動切換或者須由使用者手動開啟 影響範圍僅限於介面，或文件內容 程式碼編輯器：普遍支援 Dark mode, 並有不同 theme 可切換。如果沒有提供，請棄用😛。 Office Word 為例，初始提供 Dark mode ，僅有介面，文件本身仍舊白得發亮。後續較新版本開始提供黑底白字的文件檢視編輯。 PDF 檢視軟體，如 PDF Expert 有提供 Sepia, Night theme, 可套用至 PDF 文件本身使閱讀體驗較舒服。 網頁 CSS Media query 標準支援偵測系統佈景是否啟用 Dark mode 知名網站亦提供 Dark mode 切換，如 Facebook, Twitter, Google Search&amp;hellip; 不是所有網站都有提供 Dark mode，擴充套件可直接覆蓋樣式強迫黑底白字 所有網站皆套用：如 Dark reader, night eye, noir&amp;hellip;&amp;hellip; Stylish 自訂網站 CSS, 進階使用者微調個別網站顯示 轉換流程 開啟作業系統本身的 Dark theme，通常有支援的軟體, App, 網頁就會配合修改 未配合修改的，可透過尋找軟體內設定或者 Google 關鍵字 軟體名稱 + Dark or night mode 進一步搜尋 如 Zotero 文獻管理員，透過 Google 搜尋找到有人撰寫套用 Dark mode 的擴充套件 Windows 工作管理員，在 Windows 11 22H2 版後開始支援 Kindle 部分電子書不支援 Dark mode, 只好啟用全系統的 invert color 反相顏色 透過指令介面完成所有工作，vim 是日常程式碼編輯器，GUI 滾一邊去 </description>
+      <content:encoded><![CDATA[<ul>
+<li>
+<h2 id="前言">前言</h2>
+<ul>
+<li>眼疾因素，開始追求特殊的黑底白字顯示模式 (Dark mode or night mode)</li>
+<li>相信對眼睛的負擔較小，長久工作較不會累</li>
+<li>一些研究：Effects of Dark Mode on Visual Fatigue and Acuity in Optical See-Through Head-Mounted Displays
+<ul>
+<li>improve Visual Acuity</li>
+<li>Reduces Visual Fatigue</li>
+<li>Improves Usability and Preference in Dark Environments</li>
+</ul>
+</li>
+<li>也有人認為 Dark mode 讓內容更不易閱讀，反而讓眼睛負擔更重</li>
+<li>建議視考慮個人狀況，也有做法是依照日出日落時間自動切換</li>
+</ul>
+</li>
+<li>
+<h2 id="方向">方向</h2>
+<ul>
+<li>
+<h3 id="可操作對象">可操作對象</h3>
+<ul>
+<li>螢幕：
+<ul>
+<li>部分螢幕內建灰階化、電子紙模式，不是黑底白字，但也可以考慮</li>
+<li>直接購買 E-ink 螢幕，但螢幕更新率、高成本</li>
+</ul>
+</li>
+<li>作業系統
+<ul>
+<li>原生的黑底白字 UI 系統佈景，各家系統包括 iOS, Android 皆有提供，只是可能有過舊版本未能支援</li>
+<li>無障礙輔助功能：Windows 的高對比佈景、蘋果生態系的 invert color (反相顏色)，直接強迫所有顯示黑白反相，但是有機率影響應用程式顯示，慎用。</li>
+</ul>
+</li>
+<li>軟體
+<ul>
+<li>電腦上的軟體或手機的 App，有的內建Dark mode, 會偵測系統佈景自動切換或者須由使用者手動開啟</li>
+<li>影響範圍僅限於介面，或文件內容
+<ul>
+<li>程式碼編輯器：普遍支援 Dark mode, 並有不同 theme 可切換。如果沒有提供，請棄用😛。</li>
+<li>Office Word 為例，初始提供 Dark mode ，僅有介面，文件本身仍舊白得發亮。後續較新版本開始提供黑底白字的文件檢視編輯。</li>
+<li>PDF 檢視軟體，如 PDF Expert 有提供 Sepia, Night theme, 可套用至 PDF 文件本身使閱讀體驗較舒服。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>網頁
+<ul>
+<li>CSS Media query 標準支援偵測系統佈景是否啟用 Dark mode</li>
+<li>知名網站亦提供 Dark mode 切換，如 Facebook, Twitter, Google Search&hellip;</li>
+<li>不是所有網站都有提供 Dark mode，擴充套件可直接覆蓋樣式強迫黑底白字
+<ul>
+<li>所有網站皆套用：如 Dark reader, night eye, noir&hellip;&hellip;</li>
+<li>Stylish 自訂網站 CSS, 進階使用者微調個別網站顯示</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="轉換流程">轉換流程</h3>
+<ul>
+<li>開啟作業系統本身的 Dark theme，通常有支援的軟體, App, 網頁就會配合修改</li>
+<li>未配合修改的，可透過尋找軟體內設定或者 Google 關鍵字 軟體名稱 + Dark or night mode 進一步搜尋
+<ul>
+<li>如 Zotero 文獻管理員，透過 Google 搜尋找到有人撰寫套用 Dark mode 的擴充套件</li>
+<li>Windows 工作管理員，在 Windows 11 22H2 版後開始支援</li>
+<li>Kindle 部分電子書不支援 Dark mode, 只好啟用全系統的 invert color 反相顏色</li>
+<li><del>透過指令介面完成所有工作，vim 是日常程式碼編輯器，GUI 滾一邊去</del></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>開站第一篇文章</title>
       <link>https://huyan.gbanyan.net/2022/07/%E9%96%8B%E7%AB%99%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
