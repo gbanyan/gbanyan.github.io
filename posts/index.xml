@@ -6,7 +6,159 @@
     <description>Recent content in Posts on 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:57:59 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 18:46:18 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OPNsense 在 Proxmox VE 內安裝筆記</title>
+      <link>https://huyan.gbanyan.net/2023/01/opnsense-%E5%9C%A8-proxmox-ve-%E5%85%A7%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</link>
+      <pubDate>Sun, 29 Jan 2023 18:46:18 +0800</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/2023/01/opnsense-%E5%9C%A8-proxmox-ve-%E5%85%A7%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</guid>
+      <description>前言 更換了軟路由硬體故順便更新了筆記 此篇繼承了 Proxmox VE + PfSense 安裝 在 Proxmox VE 內的網路安裝架構仍然類似，皆採用半虛擬化網卡 Virtio Net 的架構 經過測試，Intel J4125 搭配 Intel i225v 網卡， 不用設定網卡直通，也可以跑滿 300M / 100M 更換成 OPNsense 原因有以下考量： PfSense 需要訂閱 (PfSense Plus) 才會獲得較積極的更新，雖然個人用戶目前免費，但不排除未來需付費可能 OPNsense 的更新策略較為積極，安全性更新週期較短 可安裝 Zenarmor 以及其他第三方套件來源，雖然後面還是把 Zenarmor 移除了 OPNsense 的 UI 比較人性化一些，可以善用搜尋快速跳到自己想要的設定欄位 初始安裝 Installation Assign the Port vmbr0 to WAN and vmbr1 to LAN (參見 PfSense 筆記內圖片) Skip the lagg and vlan configuration Default account and password for enter installation account: installer pass; opnsense Proxmox VE 內 VM 的設定 machine type: Q35 processors type: host OS type: other 其他 CPU, memory 視需求調整 設定 Configuration PPPoE settings with IPv6 (適用 Hinet) Fill out PPPoE info to establish connection Tick &amp;ldquo;Use IPv4 connectivity option&amp;rdquo; at LAN IPv6 section, IPv6 configuration type -&amp;gt; Track Interface, and the options below interface select &amp;ldquo;WAN&amp;rdquo; In the Firewall options, Tick &amp;ldquo;allow IPv6&amp;rdquo; Add IPv6 ICMP allow rule in WAN firewall rule 如果想指定自架的 DNS (Adguard Home or Pi-Hole) 且想要應用到 IPv6: Tick the &amp;ldquo;Manual Router announcement management&amp;rdquo; Fill the DNS IPv4 settings in the &amp;ldquo;Router announcement&amp;rdquo; Hinet IPv6 is Stateless (Stateless DHCPv6 + SLAAC) Disable the DHCPv6 service in the LAN 這樣做的邏輯是，IPv6 DNS 可以只向 IPv4 位址的 DNS 伺服器請求，還是會回傳 IPv6 的解析位址 安全性設定 Security System Disable the listen service including WebUI, ssh, Unbound on WAN surface Install the CrowdSec, and enable Intrusion Detection Disable hardware net acceleration related &amp;ldquo;Interfaces&amp;rdquo; &amp;gt; &amp;ldquo;Settings&amp;rdquo; Configure the SSH Key, disable the password login Intrusion Detection (Suricata) (IPS/IDS) Download rule sets based on service used Rule set with using sites name (p2p, Facebook, Youtube) do not apply ET Pro rule set need suscription Crowdesc Connected to the cloud database to detect the attackers IPs and block Collection for different scenarios (windows, nginx, &amp;hellip;)can only be added through shell command The hub for adding the scenario rule Hub | Firehol IP list subscription FireHOL Block List ( Botnets, Attacks, Malware&amp;hellip;.</description>
+      <content:encoded><![CDATA[<ul>
+<li>
+<h2 id="前言">前言</h2>
+<ul>
+<li>更換了軟路由硬體故順便更新了筆記</li>
+<li>此篇繼承了 <a href="https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/">Proxmox VE + PfSense 安裝</a>
+<ul>
+<li>在 Proxmox VE 內的網路安裝架構仍然類似，皆採用半虛擬化網卡 Virtio Net 的架構</li>
+<li>經過測試，Intel J4125 搭配 Intel i225v 網卡， 不用設定網卡直通，也可以跑滿 300M / 100M</li>
+</ul>
+</li>
+<li>更換成 OPNsense 原因有以下考量：
+<ul>
+<li>PfSense 需要訂閱 (PfSense Plus) 才會獲得較積極的更新，雖然個人用戶目前免費，但不排除未來需付費可能</li>
+<li>OPNsense 的更新策略較為積極，安全性更新週期較短</li>
+<li>可安裝 Zenarmor 以及其他第三方套件來源，雖然後面還是把 Zenarmor 移除了</li>
+<li>OPNsense 的 UI 比較人性化一些，可以善用搜尋快速跳到自己想要的設定欄位</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h2 id="初始安裝-installation">初始安裝 Installation</h2>
+<ul>
+<li>Assign the Port vmbr0 to WAN and vmbr1 to LAN (參見 PfSense 筆記內圖片)</li>
+<li>Skip the lagg and vlan configuration</li>
+<li>Default account and password for enter installation
+<ul>
+<li>account: installer</li>
+<li>pass; opnsense</li>
+</ul>
+</li>
+<li>Proxmox VE 內 VM 的設定
+<ul>
+<li>machine type: Q35</li>
+<li>processors type: host</li>
+<li>OS type: other</li>
+<li>其他 CPU, memory 視需求調整</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h2 id="設定-configuration">設定 Configuration</h2>
+<ul>
+<li>
+<h3 id="pppoe-settings-with-ipv6--適用-hinet">PPPoE settings with IPv6  (適用 Hinet)</h3>
+<ul>
+<li>Fill out PPPoE info to establish connection</li>
+<li>Tick &ldquo;Use IPv4 connectivity option&rdquo;</li>
+<li>at LAN IPv6 section, IPv6 configuration type -&gt; Track Interface, and the options below interface select &ldquo;WAN&rdquo;</li>
+<li>In the Firewall options, Tick &ldquo;allow IPv6&rdquo;</li>
+<li>Add IPv6 ICMP allow rule in WAN firewall rule</li>
+<li>如果想指定自架的 DNS (Adguard Home or Pi-Hole) 且想要應用到 IPv6:
+<ul>
+<li>Tick the &ldquo;Manual Router announcement management&rdquo;</li>
+<li>Fill the DNS IPv4 settings in the &ldquo;Router announcement&rdquo;</li>
+<li>Hinet IPv6 is Stateless (Stateless DHCPv6 + SLAAC)</li>
+<li>Disable the DHCPv6 service in the LAN</li>
+<li>這樣做的邏輯是，IPv6 DNS 可以只向 IPv4 位址的 DNS 伺服器請求，還是會回傳 IPv6 的解析位址</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="安全性設定-security">安全性設定 Security</h3>
+<ul>
+<li>
+<h4 id="system">System</h4>
+<ul>
+<li>Disable the listen service including WebUI, ssh, Unbound on WAN surface</li>
+<li>Install the CrowdSec, and enable Intrusion Detection
+<ul>
+<li>Disable hardware net acceleration related &ldquo;Interfaces&rdquo; &gt; &ldquo;Settings&rdquo;</li>
+</ul>
+</li>
+<li>Configure the SSH Key, disable the password login</li>
+</ul>
+</li>
+<li>
+<h4 id="intrusion-detection-suricata--ipsids">Intrusion Detection (Suricata)  (IPS/IDS)</h4>
+<ul>
+<li>Download rule sets based on service used</li>
+<li>Rule set with using sites name (p2p, Facebook, Youtube) do not apply</li>
+<li>ET Pro rule set need suscription</li>
+</ul>
+</li>
+<li>
+<h4 id="crowdesc">Crowdesc</h4>
+<ul>
+<li>Connected to the cloud database to detect the attackers IPs and block</li>
+<li>Collection for different scenarios (windows, nginx, &hellip;)can only be added through shell command</li>
+<li>The hub for adding the scenario rule <a href="https://hub.crowdsec.net">Hub |</a></li>
+</ul>
+</li>
+<li>
+<h4 id="firehol-ip-list-subscription">Firehol IP list subscription</h4>
+<ul>
+<li><a href="https://forum.opnsense.org/index.php?topic=17596.0">FireHOL Block List ( Botnets, Attacks, Malware&hellip;.)</a></li>
+<li>Follow the guide to add alias of Firehol level 2</li>
+<li>Add the Cron tab to update the Firewall alias</li>
+</ul>
+</li>
+<li>
+<h4 id="vlan-configuration--適用於建立訪客網路或者-iot-專用網路">VLAN Configuration  (適用於建立訪客網路或者 IoT 專用網路)</h4>
+<ul>
+<li>Add VLAN, assign Tag, and make Proxmox VE vtnet aware vlan</li>
+<li>Assign DHCP server</li>
+<li>Add Firewall rule to make the VLAN network unable to access the LAN</li>
+</ul>
+</li>
+<li>
+<h4 id="geoip-and-ailases-for-firewall-block--如果想擋特定區域國家的話">GeoIP and Ailases for Firewall Block  (如果想擋特定區域國家的話)</h4>
+<ul>
+<li>Register the Maxmind GeoIP database</li>
+<li>Follow the guide to add Firewall aliases</li>
+<li>Configure to block the specific countries</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="cron-安全性設定完成後記得設定各列表的更新">Cron (安全性設定完成後，記得設定各列表的更新)</h3>
+<ul>
+<li>System and packages update</li>
+<li>Suricata blocklist update</li>
+<li>Firewall aliases updates (FireHol, GeoIP)</li>
+</ul>
+</li>
+<li>
+<h3 id="others-packages">Others Packages</h3>
+<ul>
+<li>Netdata: 另外一種監控服務</li>
+<li>Wake-On-LAN: 遠端喚醒機器用</li>
+<li>UPNP: 有安全疑慮者慎用，給 LAN 內服務打洞用的</li>
+<li>Tailscale <a href="https://pfschina.org/wp/?p=9163">OPNsense安装配置Tailscale | 鐵血男兒的BLOG</a></li>
+<li>Wireguard <a href="https://www.wundertech.net/how-to-set-up-wireguard-in-opnsense/">How to Set Up WireGuard in OPNsense in 2023 - WunderTech</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Dark Mode 黑化指南</title>
       <link>https://huyan.gbanyan.net/2022/09/dark-mode-%E9%BB%91%E5%8C%96%E6%8C%87%E5%8D%97/</link>
