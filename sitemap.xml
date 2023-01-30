@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://huyan.gbanyan.net/2023/01/edema-%E6%B0%B4%E8%85%AB%E6%A6%82%E8%AB%96/</loc>
+    <lastmod>2023-01-30T14:46:34+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/tags/medicine/</loc>
+    <lastmod>2023-01-30T14:46:34+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/posts/</loc>
+    <lastmod>2023-01-30T14:46:34+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/tags/</loc>
+    <lastmod>2023-01-30T14:46:34+08:00</lastmod>
+  </url><url>
+    <loc>https://huyan.gbanyan.net/</loc>
+    <lastmod>2023-01-30T14:46:34+08:00</lastmod>
+  </url><url>
     <loc>https://huyan.gbanyan.net/tags/freebsd/</loc>
     <lastmod>2023-01-29T18:46:18+08:00</lastmod>
   </url><url>
@@ -9,15 +24,6 @@
     <lastmod>2023-01-29T18:46:18+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2023/01/opnsense-%E5%9C%A8-proxmox-ve-%E5%85%A7%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</loc>
-    <lastmod>2023-01-29T18:46:18+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/posts/</loc>
-    <lastmod>2023-01-29T18:46:18+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/tags/</loc>
-    <lastmod>2023-01-29T18:46:18+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/</loc>
     <lastmod>2023-01-29T18:46:18+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2022/09/dark-mode-%E9%BB%91%E5%8C%96%E6%8C%87%E5%8D%97/</loc>
@@ -70,9 +76,6 @@
   </url><url>
     <loc>https://huyan.gbanyan.net/2021/06/%E5%86%8D%E6%8E%A2-linux%E6%A1%8C%E9%9D%A2-manjaro-linux-%E7%9A%84%E6%BC%AB%E9%81%8A/</loc>
     <lastmod>2021-06-15T21:16:59+08:00</lastmod>
-  </url><url>
-    <loc>https://huyan.gbanyan.net/tags/medicine/</loc>
-    <lastmod>2020-06-10T21:39:34+08:00</lastmod>
   </url><url>
     <loc>https://huyan.gbanyan.net/2020/06/%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1%E7%97%85%E6%88%BF%E5%80%BC%E7%8F%AD%E5%BE%AE%E8%A8%98%E9%8C%84/</loc>
     <lastmod>2020-06-10T21:39:34+08:00</lastmod>

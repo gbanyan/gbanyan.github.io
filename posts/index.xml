@@ -6,7 +6,304 @@
     <description>Recent content in Posts on 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 29 Jan 2023 18:46:18 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 14:46:34 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edema 水腫概論</title>
+      <link>https://huyan.gbanyan.net/2023/01/edema-%E6%B0%B4%E8%85%AB%E6%A6%82%E8%AB%96/</link>
+      <pubDate>Mon, 30 Jan 2023 14:46:34 +0800</pubDate>
+      
+      <guid>https://huyan.gbanyan.net/2023/01/edema-%E6%B0%B4%E8%85%AB%E6%A6%82%E8%AB%96/</guid>
+      <description>為了不讓之前在醫學上的耕耘就此付諸東流，擬定了定期複習醫學 issue 寫成回顧概論文章的計畫。
+Data source:
+UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manifestations and evaluation of edema in adults General principles of the treatment of edema in adults Pathophysiology Increased capillary hydraulic pressure 增加血液中淨水壓 Hypoalbuminemia (ex: liver cirrhosis) 低血液白蛋白濃度 Increased capillary permeability 微血管通透性增加，可能原因是一些細胞激素的種類增加 Cytokine (ex: TNF, IL-1, IL-10, Prostaglanding) secretion Ex: 燙傷、發炎、感染、過敏 Lymphatic obstruction lymphedema (ex: axillary dissection for breast cancer ) 淋巴循環系統阻塞 Myxedema (hypothyroidism) 黏液性水腫 Compensation mechanism 為了代償血管內的水分流失，腎臟會傾向吸收更多水分 (to compensate the fluid loss in vessels, the kidney tend to water retention with Na+ reabsorption) Angiotension II Norephinephrine Aldosterone Antidiuretic hormone may cause vicious cycle Etiology Heart failure Liver cirrhosis Nephrotic syndrome and other forms of kidney disease Premenstrual edema and pregnancy Drug-induced edema Thiazolidinedione (TZD)類口服降血糖藥 (pioglitazone, rosiglitazone), PPAR, may increase Na+ reabsorption in the renal collecting duct (like Aldosterone) Calcium channel blockers (dihydropyridine, Norvasc), CCB, dilatation of the precapillary sphincter NSAID, inhibit renal prostaglandin synthesis, exacerbate edema in patients with underlying heart failure or cirrhosis Fludrocortison: unusual Estrogen, promote Sodium reabsorption, primarily in patients with impaired estrogen metabolism due to hepatic disease Pramipexole, a dopamine agonist used in the treatment of Parkinson disease and restless legs syndrome, Docetaxel, used in the treatment of metastatic breast cancer Refeeding edema (quite unusual) Evaluation Types Peripheral edema Pulmonary edema Ascites Lymphedema Periorbital and scrotal edema Pitting edema definition More common 較常見的 edema 類型 Presence of tissue depression after pressure is applied to the edematous area for at least five seconds 水腫處壓迫五秒後仍繼續塌陷 Excess interstitial water in response to pressure If note -&amp;gt; suspect hypothyroidism or lymphatic obstruction Distinguish Acute onset or chronic BIlateral or unialteral Acute unilateral Leg edema 急性單側腳水腫 Most dangerous → consider the DVT, the wells score combined with D-dimer to rule out Not DVT, consider: Muscle strain or twist injury Paralyzed limb with leg swelling Lymphangitis or lymph obstruction Venous insufficiency Popliteal (Baker&amp;rsquo;s) cyst Cellulitis 最常見症狀：紅腫熱痛加發燒，不過有些血管有問題的也有可能表現類似症狀 Some patients with venous insufficiency develop a low-grade, nonbacterial cellulitis, which resembles infectious cellulitis, May-turner syndrome: younger females (20-30 year-old) acute pain and swelling of the entire left lower extremity with or without venous thrombosis.</description>
+      <content:encoded><![CDATA[<p>為了不讓之前在醫學上的耕耘就此付諸東流，擬定了定期複習醫學 issue 寫成回顧概論文章的計畫。</p>
+<ul>
+<li>
+<p>Data source:</p>
+<ul>
+<li><a href="https://www.uptodate.com/contents/pathophysiology-and-etiology-of-edema-in-adults">UpToDate-Pathophysiology and etiology of edema in adults</a></li>
+<li><a href="https://www.uptodate.com/contents/clinical-manifestations-and-evaluation-of-edema-in-adults">UpToDate-Clinical manifestations and evaluation of edema in adults</a></li>
+<li><a href="https://www.uptodate.com/contents/general-principles-of-the-treatment-of-edema-in-adults">General principles of the treatment of edema in adults</a></li>
+<li><img loading="lazy" src="../assets/%e5%ae%b6%e9%86%ab%e7%a7%91_-_%e6%b0%b4%e8%85%ab%e4%b9%8b%e9%91%91%e5%88%a5%e8%a8%ba%e6%96%b7_1669452052753_0.pdf" alt="家醫科 - 水腫之鑑別診斷.pdf"  />
+</li>
+</ul>
+</li>
+<li>
+<h2 id="pathophysiology">Pathophysiology</h2>
+<ul>
+<li>Increased capillary hydraulic pressure <strong>增加血液中淨水壓</strong></li>
+<li>Hypoalbuminemia (ex: liver cirrhosis) <strong>低血液白蛋白濃度</strong></li>
+<li>Increased capillary permeability <strong>微血管通透性增加，可能原因是一些細胞激素的種類增加</strong>
+<ul>
+<li>Cytokine (ex: TNF, IL-1, IL-10, Prostaglanding) secretion</li>
+<li>Ex: 燙傷、發炎、感染、過敏</li>
+</ul>
+</li>
+<li>Lymphatic obstruction lymphedema (ex: axillary dissection for breast cancer ) <strong>淋巴循環系統阻塞</strong></li>
+<li>Myxedema (hypothyroidism) <strong>黏液性水腫</strong></li>
+<li>
+<h3 id="compensation-mechanism">Compensation mechanism</h3>
+<ul>
+<li>為了代償血管內的水分流失，腎臟會傾向吸收更多水分 (to compensate the fluid loss in vessels, the kidney tend to water retention with Na+ reabsorption)
+<ul>
+<li>Angiotension II</li>
+<li>Norephinephrine</li>
+<li>Aldosterone</li>
+<li>Antidiuretic hormone</li>
+</ul>
+</li>
+<li>may cause vicious cycle</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h2 id="etiology">Etiology</h2>
+<ul>
+<li>Heart failure</li>
+<li>Liver cirrhosis</li>
+<li>Nephrotic syndrome and other forms of kidney disease</li>
+<li>Premenstrual edema and pregnancy</li>
+<li>Drug-induced edema
+<ul>
+<li><strong>Thiazolidinedione (TZD)類口服降血糖藥</strong> (pioglitazone, rosiglitazone), PPAR, may increase Na+ reabsorption in the renal collecting duct (like Aldosterone) <img loading="lazy" src="../assets/%e5%8c%97%e5%b8%82%e8%81%af%e5%90%88%e8%97%a5%e8%a8%93-Thiazolidinedione_TZD%e9%a1%9e%e5%8f%a3%e6%9c%8d%e9%99%8d%e8%a1%80%e7%b3%96%e8%97%a5_1669515934075_0.pdf" alt="北市聯合藥訓-Thiazolidinedione TZD類口服降血糖藥.pdf"  />
+</li>
+<li><strong>Calcium channel blockers (dihydropyridine, Norvasc), CCB</strong>, dilatation of the precapillary sphincter</li>
+<li><strong>NSAID</strong>, inhibit renal prostaglandin synthesis, exacerbate edema in patients with underlying heart failure or cirrhosis</li>
+<li><strong>Fludrocortison</strong>: unusual</li>
+<li><strong>Estrogen</strong>, promote Sodium reabsorption, primarily in patients with impaired estrogen metabolism due to hepatic disease</li>
+<li><strong>Pramipexole</strong>, a dopamine agonist used in the treatment of Parkinson disease and restless legs syndrome,</li>
+<li><strong>Docetaxel</strong>, used in the treatment of metastatic breast cancer</li>
+</ul>
+</li>
+<li>Refeeding edema (quite unusual)</li>
+</ul>
+</li>
+<li>
+<h2 id="evaluation">Evaluation</h2>
+<ul>
+<li>
+<h3 id="types">Types</h3>
+<ul>
+<li>Peripheral edema</li>
+<li>Pulmonary edema</li>
+<li>Ascites</li>
+<li>Lymphedema</li>
+<li>Periorbital and scrotal edema</li>
+</ul>
+</li>
+<li>
+<h3 id="pitting-edema-definition">Pitting edema definition</h3>
+<ul>
+<li>More common 較常見的 edema 類型</li>
+<li>Presence of tissue depression after pressure is applied to the edematous area for at least five seconds <strong>水腫處壓迫五秒後仍繼續塌陷</strong></li>
+<li>Excess interstitial water in response to pressure</li>
+<li>If note -&gt; suspect hypothyroidism or lymphatic obstruction</li>
+</ul>
+</li>
+<li>
+<h3 id="distinguish">Distinguish</h3>
+<ul>
+<li>Acute onset or chronic</li>
+<li>BIlateral or unialteral</li>
+</ul>
+</li>
+<li>
+<h3 id="acute-unilateral-leg-edema-急性單側腳水腫">Acute unilateral Leg edema 急性單側腳水腫</h3>
+<ul>
+<li>Most dangerous → consider the DVT, the wells score combined with D-dimer to rule out</li>
+<li>Not DVT, consider:
+<ul>
+<li>Muscle strain or twist injury</li>
+<li>Paralyzed limb with leg swelling</li>
+<li>Lymphangitis or lymph obstruction</li>
+<li>Venous insufficiency</li>
+<li>Popliteal (Baker&rsquo;s) cyst</li>
+<li>Cellulitis
+<ul>
+<li>最常見症狀：紅腫熱痛加發燒，不過有些血管有問題的也有可能表現類似症狀</li>
+<li>Some patients with venous insufficiency develop a low-grade, nonbacterial cellulitis, which resembles infectious cellulitis,</li>
+</ul>
+</li>
+<li>May-turner syndrome:
+<ul>
+<li>younger females (20-30 year-old)</li>
+<li>acute pain and swelling of the entire left lower extremity</li>
+<li>with or without venous thrombosis.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="chronic-unilateral-or-asymmetric-edema-慢性單側水腫">Chronic unilateral or asymmetric edema 慢性單側水腫</h3>
+<ul>
+<li>Most common: lower extremity chronic venous disease
+<ul>
+<li>history of thrombophlebitis in affected leg</li>
+<li>longstanding → pigmentary changes and skin ulceration</li>
+</ul>
+</li>
+<li>Less common:
+<ul>
+<li>Primary or secondary lymphedema
+<ul>
+<li>history of inguinal or pelvic lymph node dissection</li>
+<li>radiation therapy</li>
+<li>initially pitting, but became non-pitting for cutaneous fibrosis occurs</li>
+</ul>
+</li>
+<li>Complex regional pain syndrome (複雜性局部疼痛症候群)
+<ul>
+<li>4-6 weeks after limb truma</li>
+<li>pain, edema, and alteration in skin color and temperature</li>
+<li><a href="https://enjoyyoung.com/medical-info/%E8%A4%87%E9%9B%9C%E6%80%A7%E5%B1%80%E9%83%A8%E7%96%BC%E7%97%9B%E7%97%87%E5%80%99%E7%BE%A4-%E8%88%87%E5%82%B7%E5%AE%B3%E4%B8%8D%E6%88%90%E6%AD%A3%E6%AF%94%E7%9A%84%E6%BF%80%E7%83%88/">複雜性局部疼痛症候群｜皮膚變得異常敏感？｜熱河診所</a></li>
+</ul>
+</li>
+<li>Pelvic neoplasm compromising venous return
+<ul>
+<li>Suspected when Compression Ultrasonography (CUS) showed a outflow obstruction</li>
+<li>Ovarian cancer</li>
+<li>Endometrial cancer</li>
+<li>Bladder cancer</li>
+<li>Lymphoma</li>
+<li>Prostate cancer</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="acute-bilateral-leg-edema--急性雙側水腫">Acute bilateral leg edema  急性雙側水腫</h3>
+<ul>
+<li>Uncommon</li>
+<li>Most likely etiology:
+<ul>
+<li>Side effect of medications</li>
+<li>Acute heart failure
+<ul>
+<li>Dyspnea, orthopnea, ,paroxysmal nocturnal dyspnea, tachypnea ,tachycardia, rales, or distended neck veins</li>
+</ul>
+</li>
+<li>Acute nephrotic syndrome
+<ul>
+<li>urine dipstick positive for protein</li>
+</ul>
+</li>
+<li>Bilateral DVT, often associated with malignancy</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3 id="chronic-bilateral-leg-edema-慢性雙側水腫">Chronic bilateral leg edema 慢性雙側水腫</h3>
+<ul>
+<li>Heart failure</li>
+<li>Pulmonary hypertension</li>
+<li>Renal disease</li>
+<li>Liver disease</li>
+<li>Pelvic neoplasm</li>
+<li>Constrictive pericarditis</li>
+<li>Idiopathic edema</li>
+<li>Premenstrual edema</li>
+<li>Malnutrition</li>
+</ul>
+</li>
+<li>
+<h3 id="arm-edema">Arm edema</h3>
+<ul>
+<li>trauma, infection, superficial thrombophlebitis, or inflammatory arthritis, apparent in history</li>
+<li>Extremity venous thrombosis should be suspected when none of the etiologies noted</li>
+<li>Acute bIlateral upper edema is rare, may be seen on superior vena cava syndrome</li>
+</ul>
+</li>
+<li>
+<h3 id="pulmonary-edema">Pulmonary edema</h3>
+<ul>
+<li>Uncomplicated cirrhosis is not associated with pulmonary edema, in contrast to cardiac and renal disease</li>
+<li>Pulmonary edema not occurred in isolated hypoalbuminemia</li>
+</ul>
+</li>
+<li>
+<h3 id="lymphedema">Lymphedema</h3>
+<ul>
+<li>Most common in developed countries: ALND</li>
+<li>Most common in worldwide: filariasis</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h2 id="treatment">Treatment</h2>
+<ul>
+<li>
+<h3 id="when-must-edema-be-treated">When must edema be treated?</h3>
+<ul>
+<li><strong>Pulmonary edema</strong> 是最危險需立即處理的</li>
+<li>其他的如果沒有立即性危險，可以慢慢脫水，尤其是對 Cirrhosis 的病人來說，如果過度脫水導致的低血鉀、代謝性鹼中毒、還有快速的體液容積變化有可能會加重 hepatic</li>
+</ul>
+</li>
+<li>
+<h3 id="consequence-of-the-diuretic-use">Consequence of the diuretic use</h3>
+<ul>
+<li>Reduction in cardiac output on patients with heart failure</li>
+<li>Diuretic-induced fluid removal leads to increased secretion of the three &ldquo;hypovolemic&rdquo; hormones (renin, norepinephrine, and antidiuretic hormone)</li>
+<li>Despite the reduction in the effective arterial blood volume, most patients benefit from the appropriate use of diuretics.
+<ul>
+<li>Pulmonary congestion improved</li>
+<li>Relief of symptoms of fatigue and bloating with noncardiac cause of edema</li>
+</ul>
+</li>
+<li>Decrease in effective arterial blood volume impair tissue perfusion condition:
+<ul>
+<li><strong>Severe heart failure</strong> in very low baseline effective arterial blood volume</li>
+<li><strong>Rapid fluid removal in cirrhosis</strong></li>
+</ul>
+</li>
+<li>Monitoring:
+<ul>
+<li>BUN and Crea</li>
+<li>Any symptoms imply decline in tissue perfusion: fatigue, weakness ,postural dizziness, lethargy or confusion</li>
+</ul>
+</li>
+<li>Impaired renal function <strong>SHOULD NOT</strong> occurred after the appropriate use of diuretics</li>
+</ul>
+</li>
+<li>
+<h3 id="how-rapidly-should-edema-fluid-be-removed">How rapidly should edema fluid be removed?</h3>
+<ul>
+<li>Generalized edema due to heart failure, the nephrotic syndrome, or primary sodium retention
+<ul>
+<li>the edema fluid can be mobilized rapidly since most capillary beds are involved</li>
+<li>With anasarca (全身水腫), removal of 2 to 3 liters of edema fluid or more in 24 hours</li>
+</ul>
+</li>
+<li><strong>300 to 500 mL/day</strong> : the maximum amount that can be mobilized by most patients with isolated ascites (腹水但沒有周邊水腫的)</li>
+<li>Diuretics should be carefully used in <strong>Venous insufficiency, lymphedema, and malignant ascites</strong></li>
+</ul>
+</li>
+<li>
+<h3 id="diuretics-options">Diuretics Options</h3>
+<ul>
+<li>Generally begin with loop diuretics: <em>furosemide</em></li>
+<li>Monitoring BUN, crea, and electrolyte complication</li>
+<li>Preferred regimen in different condition:
+<ul>
+<li>Cirrhosis: spironolactone (to prevent hypokalemia) and loop diuretics</li>
+<li>Heart failure: just monitor the signs of hypoperfusion</li>
+<li>Nephrotic syndrome: higher dose of diuretics is needed because transport of the diuretic into the tubular lumen is impaired.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>OPNsense 在 Proxmox VE 內安裝筆記</title>
       <link>https://huyan.gbanyan.net/2023/01/opnsense-%E5%9C%A8-proxmox-ve-%E5%85%A7%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</link>
