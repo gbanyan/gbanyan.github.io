@@ -16,14 +16,15 @@
       <description>前言 家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。
 一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。
 Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO 檔，燒錄到 USB 隨身碟，啟動一步一步安裝即可。在高檔硬體配置的重型伺服器，還可以考慮 ZFS 檔案系統，不過只是一台軟路由小主機就一切從簡。
-下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有說明文件(Virtualizing with Proxmox® VE)。以下僅討論個人需求和架設過程中的問題。
+下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有 說明文件(Virtualizing with Proxmox® VE)。以下僅討論個人需求和架設過程中的問題。
 預計架構 軟路由機器有四個實體網路孔, enp1s0, enp2s0, enp3s0, enp4s0 第一個當作 WAN 孔，其餘三孔作為 LAN 孔 Proxmox VE 可以透過 LAN 孔存取 Proxmox VE 之下虛擬化的 pfSense 作為 Router 使用，透過 WAN 進行 PPPoE 撥號 家中其餘網路設備透過 LAN 得到網路存取 問題點 一開始 Proxmox VE 已經建立一個 Linux Bridge, 為 vmbr0, 關聯到 enp1s0, 並已指派原先設定的 IP 192.</description>
       <content:encoded><![CDATA[<h2 id="前言">前言</h2>
 <p>家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。</p>
 <p>一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。</p>
 <h2 id="proxmox-ve-安裝-pfsense">Proxmox VE 安裝 pfSense</h2>
 <p>安裝 Proxmox 本身的過程蠻簡單，下載 ISO 檔，燒錄到 USB 隨身碟，啟動一步一步安裝即可。在高檔硬體配置的重型伺服器，還可以考慮 ZFS 檔案系統，不過只是一台軟路由小主機就一切從簡。</p>
-<p>下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有<a href="https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html">說明文件(Virtualizing with Proxmox® VE)</a>。以下僅討論個人需求和架設過程中的問題。</p>
+<p>下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有
+<a href="https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html" target="_blank" rel="noopener">說明文件(Virtualizing with Proxmox® VE)</a>。以下僅討論個人需求和架設過程中的問題。</p>
 <h3 id="預計架構">預計架構</h3>
 <ul>
 <li>軟路由機器有四個實體網路孔, enp1s0, enp2s0, enp3s0, enp4s0</li>
@@ -83,9 +84,12 @@ Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO �
 <p>我覺得兩個系統都很優秀，如果是一台無線路由器或硬體配置很低的機器要改裝，我會優先選擇 OpenWRT。但是像四核心 J1900 CPU, 記憶體裝到 8G 的機器，就會考慮裝 pfSense 來玩玩。</p>
 <h2 id="reference">Reference</h2>
 <ul>
-<li><a href="https://www.jkg.tw/p1464/">在 UniFi Controller 5.9.29 啟用中華電信非固定制 IPv6 服務</a></li>
-<li><a href="https://pfschina.org/wp/?p=6505#IPv4%E6%8A%91%E5%88%B6%E5%88%97%E8%A1%A8">pfBlockerNG设置指南 | 鐵血男兒的BLOG</a></li>
-<li><a href="https://pfschina.org/wp/?p=6686">pfSense安装AdGuardHome | 鐵血男兒的BLOG</a></li>
+<li>
+<a href="https://www.jkg.tw/p1464/" target="_blank" rel="noopener">在 UniFi Controller 5.9.29 啟用中華電信非固定制 IPv6 服務</a></li>
+<li>
+<a href="https://pfschina.org/wp/?p=6505#IPv4%E6%8A%91%E5%88%B6%E5%88%97%E8%A1%A8" target="_blank" rel="noopener">pfBlockerNG设置指南 | 鐵血男兒的BLOG</a></li>
+<li>
+<a href="https://pfschina.org/wp/?p=6686" target="_blank" rel="noopener">pfSense安装AdGuardHome | 鐵血男兒的BLOG</a></li>
 </ul>
 ]]></content:encoded>
     </item>

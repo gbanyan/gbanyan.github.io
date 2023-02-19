@@ -63,7 +63,8 @@
 </ul>
 </li>
 <li>
-<p>參考 <a href="https://docs.microsoft.com/zh-tw/windows/wsl/install">Microsoft 官方文件</a>，安裝 WSL2</p>
+<p>參考 
+<a href="https://docs.microsoft.com/zh-tw/windows/wsl/install" target="_blank" rel="noopener">Microsoft 官方文件</a>，安裝 WSL2</p>
 </li>
 <li>
 <p>可透過 Windows 終端 wsl 命令操作l，</p>
@@ -94,7 +95,8 @@
 <li><strong>2022.9.21 更新</strong>
 <ul>
 <li>原有 WSL2 因為沒有 systemd, 故無法正常啟用 tailscale</li>
-<li>自 WSL 0.67 之後，微軟宣布開始支援 systemd, <a href="https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/">參考文件</a></li>
+<li>自 WSL 0.67 之後，微軟宣布開始支援 systemd, 
+<a href="https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/" target="_blank" rel="noopener">參考文件</a></li>
 <li>更新到最新版後，可以在 WSL2 內安裝 tailscale, 可在外網直接連線到 wsl2</li>
 </ul>
 </li>
@@ -102,9 +104,12 @@
 </li>
 <li>Windows 11 本身可以安裝 openssh-server
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui">參考 Microsoft 官方文件</a> 安裝 Windows 本身的 openssh-server ^^不是 WSL2 內部的！^^</li>
-<li><a href="https://superuser.com/questions/1622581/ssh-into-wsl-from-another-machine-on-the-network">SSH into WSL from another machine on the network</a></li>
-<li><a href="https://gist.github.com/mattbell87/f5bd7b78c8d0ad7f0dfc3addae4f4897">設定 ssh 一連入 Windows 11 就自動連入 WSL2 方法</a>
+<li>
+<a href="https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui" target="_blank" rel="noopener">參考 Microsoft 官方文件</a> 安裝 Windows 本身的 openssh-server ^^不是 WSL2 內部的！^^</li>
+<li>
+<a href="https://superuser.com/questions/1622581/ssh-into-wsl-from-another-machine-on-the-network" target="_blank" rel="noopener">SSH into WSL from another machine on the network</a></li>
+<li>
+<a href="https://gist.github.com/mattbell87/f5bd7b78c8d0ad7f0dfc3addae4f4897" target="_blank" rel="noopener">設定 ssh 一連入 Windows 11 就自動連入 WSL2 方法</a>
 <ul>
 <li>PS 會干擾 WSL2 內切換 zsh 設定</li>
 </ul>
@@ -126,7 +131,8 @@
 <li>
 <h2 id="題外話vs-code-遠端開發">題外話：VS Code 遠端開發</h2>
 <ul>
-<li><a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks">Microsoft 官方文件</a></li>
+<li>
+<a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks" target="_blank" rel="noopener">Microsoft 官方文件</a></li>
 <li>VS Code 安裝 Python, Remote-SSH, 等套件</li>
 <li>設定 SSH 連線到 Remote 開啟資料夾後，python interpreter 可以選擇 conda 創建好的環境有安裝 jupyter 套件的環境</li>
 <li>開新的 jupyter-notebook 即可在 VS Code 內開發</li>

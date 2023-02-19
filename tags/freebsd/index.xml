@@ -19,7 +19,8 @@
 <h2 id="前言">前言</h2>
 <ul>
 <li>更換了軟路由硬體故順便更新了筆記</li>
-<li>此篇繼承了 <a href="https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/">Proxmox VE + PfSense 安裝</a>
+<li>此篇繼承了 
+<a href="https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%e5%ae%89%e8%a3%9d/" target="_blank" rel="noopener">Proxmox VE + PfSense 安裝</a>
 <ul>
 <li>在 Proxmox VE 內的網路安裝架構仍然類似，皆採用半虛擬化網卡 Virtio Net 的架構</li>
 <li>經過測試，Intel J4125 搭配 Intel i225v 網卡， 不用設定網卡直通，也可以跑滿 300M / 100M</li>
@@ -106,13 +107,15 @@
 <ul>
 <li>Connected to the cloud database to detect the attackers IPs and block</li>
 <li>Collection for different scenarios (windows, nginx, &hellip;)can only be added through shell command</li>
-<li>The hub for adding the scenario rule <a href="https://hub.crowdsec.net">Hub |</a></li>
+<li>The hub for adding the scenario rule 
+<a href="https://hub.crowdsec.net" target="_blank" rel="noopener">Hub |</a></li>
 </ul>
 </li>
 <li>
 <h4 id="firehol-ip-list-subscription">Firehol IP list subscription</h4>
 <ul>
-<li><a href="https://forum.opnsense.org/index.php?topic=17596.0">FireHOL Block List ( Botnets, Attacks, Malware&hellip;.)</a></li>
+<li>
+<a href="https://forum.opnsense.org/index.php?topic=17596.0" target="_blank" rel="noopener">FireHOL Block List ( Botnets, Attacks, Malware&hellip;.)</a></li>
 <li>Follow the guide to add alias of Firehol level 2</li>
 <li>Add the Cron tab to update the Firewall alias</li>
 </ul>
@@ -149,8 +152,10 @@
 <li>Netdata: 另外一種監控服務</li>
 <li>Wake-On-LAN: 遠端喚醒機器用</li>
 <li>UPNP: 有安全疑慮者慎用，給 LAN 內服務打洞用的</li>
-<li>Tailscale <a href="https://pfschina.org/wp/?p=9163">OPNsense安装配置Tailscale | 鐵血男兒的BLOG</a></li>
-<li>Wireguard <a href="https://www.wundertech.net/how-to-set-up-wireguard-in-opnsense/">How to Set Up WireGuard in OPNsense in 2023 - WunderTech</a></li>
+<li>Tailscale 
+<a href="https://pfschina.org/wp/?p=9163" target="_blank" rel="noopener">OPNsense安装配置Tailscale | 鐵血男兒的BLOG</a></li>
+<li>Wireguard 
+<a href="https://www.wundertech.net/how-to-set-up-wireguard-in-opnsense/" target="_blank" rel="noopener">How to Set Up WireGuard in OPNsense in 2023 - WunderTech</a></li>
 </ul>
 </li>
 </ul>

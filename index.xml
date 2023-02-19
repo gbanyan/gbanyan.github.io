@@ -21,10 +21,14 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <li>
 <p>Data source:</p>
 <ul>
-<li><a href="https://www.uptodate.com/contents/pathophysiology-and-etiology-of-edema-in-adults">UpToDate-Pathophysiology and etiology of edema in adults</a></li>
-<li><a href="https://www.uptodate.com/contents/clinical-manifestations-and-evaluation-of-edema-in-adults">UpToDate-Clinical manifestations and evaluation of edema in adults</a></li>
-<li><a href="https://www.uptodate.com/contents/general-principles-of-the-treatment-of-edema-in-adults">General principles of the treatment of edema in adults</a></li>
-<li><a href="https://www.tafm.org.tw/ehc-tafm/s/viewDocument?documentId=dfe9aa22adab44fabcf0b7c10b370122">家醫科 - 水腫之鑑別診斷.pdf</a></li>
+<li>
+<a href="https://www.uptodate.com/contents/pathophysiology-and-etiology-of-edema-in-adults" target="_blank" rel="noopener">UpToDate-Pathophysiology and etiology of edema in adults</a></li>
+<li>
+<a href="https://www.uptodate.com/contents/clinical-manifestations-and-evaluation-of-edema-in-adults" target="_blank" rel="noopener">UpToDate-Clinical manifestations and evaluation of edema in adults</a></li>
+<li>
+<a href="https://www.uptodate.com/contents/general-principles-of-the-treatment-of-edema-in-adults" target="_blank" rel="noopener">General principles of the treatment of edema in adults</a></li>
+<li>
+<a href="https://www.tafm.org.tw/ehc-tafm/s/viewDocument?documentId=dfe9aa22adab44fabcf0b7c10b370122" target="_blank" rel="noopener">家醫科 - 水腫之鑑別診斷.pdf</a></li>
 </ul>
 </li>
 <li>
@@ -156,7 +160,8 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <ul>
 <li>4-6 weeks after limb truma</li>
 <li>pain, edema, and alteration in skin color and temperature</li>
-<li><a href="https://enjoyyoung.com/medical-info/%E8%A4%87%E9%9B%9C%E6%80%A7%E5%B1%80%E9%83%A8%E7%96%BC%E7%97%9B%E7%97%87%E5%80%99%E7%BE%A4-%E8%88%87%E5%82%B7%E5%AE%B3%E4%B8%8D%E6%88%90%E6%AD%A3%E6%AF%94%E7%9A%84%E6%BF%80%E7%83%88/">複雜性局部疼痛症候群｜皮膚變得異常敏感？｜熱河診所</a></li>
+<li>
+<a href="https://enjoyyoung.com/medical-info/%e8%a4%87%e9%9b%9c%e6%80%a7%e5%b1%80%e9%83%a8%e7%96%bc%e7%97%9b%e7%97%87%e5%80%99%e7%be%a4-%e8%88%87%e5%82%b7%e5%ae%b3%e4%b8%8d%e6%88%90%e6%ad%a3%e6%af%94%e7%9a%84%e6%bf%80%e7%83%88/" target="_blank" rel="noopener">複雜性局部疼痛症候群｜皮膚變得異常敏感？｜熱河診所</a></li>
 </ul>
 </li>
 <li>Pelvic neoplasm compromising venous return
@@ -314,7 +319,8 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <h2 id="前言">前言</h2>
 <ul>
 <li>更換了軟路由硬體故順便更新了筆記</li>
-<li>此篇繼承了 <a href="https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/">Proxmox VE + PfSense 安裝</a>
+<li>此篇繼承了 
+<a href="https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%e5%ae%89%e8%a3%9d/" target="_blank" rel="noopener">Proxmox VE + PfSense 安裝</a>
 <ul>
 <li>在 Proxmox VE 內的網路安裝架構仍然類似，皆採用半虛擬化網卡 Virtio Net 的架構</li>
 <li>經過測試，Intel J4125 搭配 Intel i225v 網卡， 不用設定網卡直通，也可以跑滿 300M / 100M</li>
@@ -401,13 +407,15 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <ul>
 <li>Connected to the cloud database to detect the attackers IPs and block</li>
 <li>Collection for different scenarios (windows, nginx, &hellip;)can only be added through shell command</li>
-<li>The hub for adding the scenario rule <a href="https://hub.crowdsec.net">Hub |</a></li>
+<li>The hub for adding the scenario rule 
+<a href="https://hub.crowdsec.net" target="_blank" rel="noopener">Hub |</a></li>
 </ul>
 </li>
 <li>
 <h4 id="firehol-ip-list-subscription">Firehol IP list subscription</h4>
 <ul>
-<li><a href="https://forum.opnsense.org/index.php?topic=17596.0">FireHOL Block List ( Botnets, Attacks, Malware&hellip;.)</a></li>
+<li>
+<a href="https://forum.opnsense.org/index.php?topic=17596.0" target="_blank" rel="noopener">FireHOL Block List ( Botnets, Attacks, Malware&hellip;.)</a></li>
 <li>Follow the guide to add alias of Firehol level 2</li>
 <li>Add the Cron tab to update the Firewall alias</li>
 </ul>
@@ -444,8 +452,10 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <li>Netdata: 另外一種監控服務</li>
 <li>Wake-On-LAN: 遠端喚醒機器用</li>
 <li>UPNP: 有安全疑慮者慎用，給 LAN 內服務打洞用的</li>
-<li>Tailscale <a href="https://pfschina.org/wp/?p=9163">OPNsense安装配置Tailscale | 鐵血男兒的BLOG</a></li>
-<li>Wireguard <a href="https://www.wundertech.net/how-to-set-up-wireguard-in-opnsense/">How to Set Up WireGuard in OPNsense in 2023 - WunderTech</a></li>
+<li>Tailscale 
+<a href="https://pfschina.org/wp/?p=9163" target="_blank" rel="noopener">OPNsense安装配置Tailscale | 鐵血男兒的BLOG</a></li>
+<li>Wireguard 
+<a href="https://www.wundertech.net/how-to-set-up-wireguard-in-opnsense/" target="_blank" rel="noopener">How to Set Up WireGuard in OPNsense in 2023 - WunderTech</a></li>
 </ul>
 </li>
 </ul>
@@ -598,7 +608,8 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 </ul>
 </li>
 <li>
-<p>參考 <a href="https://docs.microsoft.com/zh-tw/windows/wsl/install">Microsoft 官方文件</a>，安裝 WSL2</p>
+<p>參考 
+<a href="https://docs.microsoft.com/zh-tw/windows/wsl/install" target="_blank" rel="noopener">Microsoft 官方文件</a>，安裝 WSL2</p>
 </li>
 <li>
 <p>可透過 Windows 終端 wsl 命令操作l，</p>
@@ -629,7 +640,8 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <li><strong>2022.9.21 更新</strong>
 <ul>
 <li>原有 WSL2 因為沒有 systemd, 故無法正常啟用 tailscale</li>
-<li>自 WSL 0.67 之後，微軟宣布開始支援 systemd, <a href="https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/">參考文件</a></li>
+<li>自 WSL 0.67 之後，微軟宣布開始支援 systemd, 
+<a href="https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/" target="_blank" rel="noopener">參考文件</a></li>
 <li>更新到最新版後，可以在 WSL2 內安裝 tailscale, 可在外網直接連線到 wsl2</li>
 </ul>
 </li>
@@ -637,9 +649,12 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 </li>
 <li>Windows 11 本身可以安裝 openssh-server
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui">參考 Microsoft 官方文件</a> 安裝 Windows 本身的 openssh-server ^^不是 WSL2 內部的！^^</li>
-<li><a href="https://superuser.com/questions/1622581/ssh-into-wsl-from-another-machine-on-the-network">SSH into WSL from another machine on the network</a></li>
-<li><a href="https://gist.github.com/mattbell87/f5bd7b78c8d0ad7f0dfc3addae4f4897">設定 ssh 一連入 Windows 11 就自動連入 WSL2 方法</a>
+<li>
+<a href="https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui" target="_blank" rel="noopener">參考 Microsoft 官方文件</a> 安裝 Windows 本身的 openssh-server ^^不是 WSL2 內部的！^^</li>
+<li>
+<a href="https://superuser.com/questions/1622581/ssh-into-wsl-from-another-machine-on-the-network" target="_blank" rel="noopener">SSH into WSL from another machine on the network</a></li>
+<li>
+<a href="https://gist.github.com/mattbell87/f5bd7b78c8d0ad7f0dfc3addae4f4897" target="_blank" rel="noopener">設定 ssh 一連入 Windows 11 就自動連入 WSL2 方法</a>
 <ul>
 <li>PS 會干擾 WSL2 內切換 zsh 設定</li>
 </ul>
@@ -661,7 +676,8 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
 <li>
 <h2 id="題外話vs-code-遠端開發">題外話：VS Code 遠端開發</h2>
 <ul>
-<li><a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks">Microsoft 官方文件</a></li>
+<li>
+<a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks" target="_blank" rel="noopener">Microsoft 官方文件</a></li>
 <li>VS Code 安裝 Python, Remote-SSH, 等套件</li>
 <li>設定 SSH 連線到 Remote 開啟資料夾後，python interpreter 可以選擇 conda 創建好的環境有安裝 jupyter 套件的環境</li>
 <li>開新的 jupyter-notebook 即可在 VS Code 內開發</li>
@@ -680,14 +696,15 @@ UpToDate-Pathophysiology and etiology of edema in adults UpToDate-Clinical manif
       <description>前言 家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。
 一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。
 Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO 檔，燒錄到 USB 隨身碟，啟動一步一步安裝即可。在高檔硬體配置的重型伺服器，還可以考慮 ZFS 檔案系統，不過只是一台軟路由小主機就一切從簡。
-下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有說明文件(Virtualizing with Proxmox® VE)。以下僅討論個人需求和架設過程中的問題。
+下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有 說明文件(Virtualizing with Proxmox® VE)。以下僅討論個人需求和架設過程中的問題。
 預計架構 軟路由機器有四個實體網路孔, enp1s0, enp2s0, enp3s0, enp4s0 第一個當作 WAN 孔，其餘三孔作為 LAN 孔 Proxmox VE 可以透過 LAN 孔存取 Proxmox VE 之下虛擬化的 pfSense 作為 Router 使用，透過 WAN 進行 PPPoE 撥號 家中其餘網路設備透過 LAN 得到網路存取 問題點 一開始 Proxmox VE 已經建立一個 Linux Bridge, 為 vmbr0, 關聯到 enp1s0, 並已指派原先設定的 IP 192.</description>
       <content:encoded><![CDATA[<h2 id="前言">前言</h2>
 <p>家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。</p>
 <p>一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。</p>
 <h2 id="proxmox-ve-安裝-pfsense">Proxmox VE 安裝 pfSense</h2>
 <p>安裝 Proxmox 本身的過程蠻簡單，下載 ISO 檔，燒錄到 USB 隨身碟，啟動一步一步安裝即可。在高檔硬體配置的重型伺服器，還可以考慮 ZFS 檔案系統，不過只是一台軟路由小主機就一切從簡。</p>
-<p>下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有<a href="https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html">說明文件(Virtualizing with Proxmox® VE)</a>。以下僅討論個人需求和架設過程中的問題。</p>
+<p>下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有
+<a href="https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html" target="_blank" rel="noopener">說明文件(Virtualizing with Proxmox® VE)</a>。以下僅討論個人需求和架設過程中的問題。</p>
 <h3 id="預計架構">預計架構</h3>
 <ul>
 <li>軟路由機器有四個實體網路孔, enp1s0, enp2s0, enp3s0, enp4s0</li>
@@ -747,9 +764,12 @@ Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO �
 <p>我覺得兩個系統都很優秀，如果是一台無線路由器或硬體配置很低的機器要改裝，我會優先選擇 OpenWRT。但是像四核心 J1900 CPU, 記憶體裝到 8G 的機器，就會考慮裝 pfSense 來玩玩。</p>
 <h2 id="reference">Reference</h2>
 <ul>
-<li><a href="https://www.jkg.tw/p1464/">在 UniFi Controller 5.9.29 啟用中華電信非固定制 IPv6 服務</a></li>
-<li><a href="https://pfschina.org/wp/?p=6505#IPv4%E6%8A%91%E5%88%B6%E5%88%97%E8%A1%A8">pfBlockerNG设置指南 | 鐵血男兒的BLOG</a></li>
-<li><a href="https://pfschina.org/wp/?p=6686">pfSense安装AdGuardHome | 鐵血男兒的BLOG</a></li>
+<li>
+<a href="https://www.jkg.tw/p1464/" target="_blank" rel="noopener">在 UniFi Controller 5.9.29 啟用中華電信非固定制 IPv6 服務</a></li>
+<li>
+<a href="https://pfschina.org/wp/?p=6505#IPv4%E6%8A%91%E5%88%B6%E5%88%97%E8%A1%A8" target="_blank" rel="noopener">pfBlockerNG设置指南 | 鐵血男兒的BLOG</a></li>
+<li>
+<a href="https://pfschina.org/wp/?p=6686" target="_blank" rel="noopener">pfSense安装AdGuardHome | 鐵血男兒的BLOG</a></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -760,13 +780,14 @@ Proxmox VE 安裝 pfSense 安裝 Proxmox 本身的過程蠻簡單，下載 ISO �
       <pubDate>Sat, 09 Jul 2022 21:01:24 +0800</pubDate>
       
       <guid>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</guid>
-      <description>網址：https://huyan.gbanyan.net
+      <description>網址： https://huyan.gbanyan.net
 未來計畫 增加 Cover image 增加 favicon 設定 Social metadata 設定 Comment 功能 設定 Google Analytics 加上 Cloudflare Proxy Ref
 原則 化繁為簡，以內容為重 以 Markdown Note 為基礎，盡可能降低發布成本，從 Obsidian 轉錄方便為佳 將更新維護考慮進去，重視資料標籤及最後更新日期資訊 標籤使用節制，與 Obsidian 共用同一系統 規劃 網站資訊 Hugo static site generater Hugo theme: Papermod 簡潔 Light/ Dark mode switch 支援部分 Social Metadata 支援 TOC 網址結構 URL Structure：/:year/:month/:title/ 目錄層級 About tags archives search Social Site Link Twitter
 RSS
 未來可能考慮: Github, &amp;hellip;etc
 維護流程 Hugo 與佈景更新 Hugo through macOS brew package manager Papermod theme 更新: cd themes/PaperMod git pull 發新文章 hugo new posts/title.</description>
-      <content:encoded><![CDATA[<p>網址：<a href="https://huyan.gbanyan.net">https://huyan.gbanyan.net</a></p>
+      <content:encoded><![CDATA[<p>網址：
+<a href="https://huyan.gbanyan.net" target="_blank" rel="noopener">https://huyan.gbanyan.net</a></p>
 <h2 id="未來計畫">未來計畫</h2>
 <ul>
 <li>增加 Cover image</li>
@@ -776,7 +797,8 @@ RSS
 <li>設定 Google Analytics</li>
 <li>加上 Cloudflare Proxy</li>
 </ul>
-<p><a href="https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/">Ref</a></p>
+<p>
+<a href="https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/" target="_blank" rel="noopener">Ref</a></p>
 <h2 id="原則">原則</h2>
 <ul>
 <li>化繁為簡，以內容為重</li>
@@ -788,7 +810,8 @@ RSS
 <h3 id="網站資訊">網站資訊</h3>
 <ul>
 <li>Hugo static site generater</li>
-<li>Hugo theme: <a href="https://adityatelange.github.io/hugo-PaperMod/">Papermod</a>
+<li>Hugo theme: 
+<a href="https://adityatelange.github.io/hugo-PaperMod/" target="_blank" rel="noopener">Papermod</a>
 <ul>
 <li>簡潔</li>
 <li>Light/ Dark mode switch</li>
@@ -880,7 +903,8 @@ HSP 高敏感者的特點 感覺的敏感象徵著高度訊息處理能力 經�
 <p>本篇為高敏感者愛自己的 19 個練習的閱讀後摘要筆記</p>
 </blockquote>
 <ul>
-<li><a href="https://www.books.com.tw/products/0010811302">原書博客來連結</a></li>
+<li>
+<a href="https://www.books.com.tw/products/0010811302" target="_blank" rel="noopener">原書博客來連結</a></li>
 </ul>
 <h2 id="hsp-高敏感者的自我感覺">HSP 高敏感者的自我感覺</h2>
 <ul>
@@ -895,7 +919,8 @@ HSP 高敏感者的特點 感覺的敏感象徵著高度訊息處理能力 經�
 <p>HSP的玻璃心與生活煎熬,其實正與犀利的感覺及感受性、豐富的心靈及情感、無限想像力及高度同理心等美好優點是一體兩面的。</p>
 <p>大部分HSP確實有著容易不安、悲觀、想法消極、易受他人影響、容易疲困等負面特質,也正是這些負面特質使得容易受傷，充滿痛苦。
 必須告訴自己，敏感及纖細的特質是與生俱來的特質,並非因為你太懦弱、太懶惰,或是抗壓性太低。</p>
-<p><a href="https://www.suncolor.com.tw/event/books/highlysensitive/quiz.html">https://www.suncolor.com.tw/event/books/highlysensitive/quiz.html</a> - 高敏感族檢測自我量表</p>
+<p>
+<a href="https://www.suncolor.com.tw/event/books/highlysensitive/quiz.html" target="_blank" rel="noopener">https://www.suncolor.com.tw/event/books/highlysensitive/quiz.html</a> - 高敏感族檢測自我量表</p>
 <h2 id="hsp-高敏感者的特點">HSP 高敏感者的特點</h2>
 <ul>
 <li>感覺的敏感象徵著高度訊息處理能力</li>
@@ -1252,7 +1277,8 @@ Linux 社群本質上是來自世界各地，有活力但是鬆散，沒有約�
 </figure>
 
 <p>好吧，搜尋了一下，緊急症狀處理主要是積極的給水 Dilution 和給予降鈣藥物，詢問過當下選擇 Calcitonin 皮下注射。心電圖也得做一張。因為是 PGY 第一個月，每個事情都膽戰心驚，卡的點主要是啊都已經有腹水出來了，在給他豈不更多水跑進去腹腔？但是最後衡量高血鈣的危險性後腹水只能算是小事了。Lab data 有意義的還有 Anemia, Thrombocytopenia, Acute Kidney Injury, Hypoalbumenia</p>
-<p><a href="http://www.tsim.org.tw/journal/jour28-3/07.PDF">台灣內科醫學會 -高血鈣的診斷與治療</a></p>
+<p>
+<a href="http://www.tsim.org.tw/journal/jour28-3/07.PDF" target="_blank" rel="noopener">台灣內科醫學會 -高血鈣的診斷與治療</a></p>
 <p>後來在住院期間，經過緊急處理 Hydration 加 Calcitonin 注射，病人血鈣降低，意識就逐漸清醒了，原先的噁心嘔吐便祕症狀也隨之改善，但是病因沒解決，高血鈣仍然會持續復發，在漫長的高血鈣 Survey 過程，每個禮拜血鈣都會高上來就得繼續Hydration 下去，中間還曾經一度有肺水腫跟低血鉀跑出來，病人家屬主護都表示心累，要跟主護家屬病解時都很心虛&hellip;&hellip;</p>
 <p>Survey 過程很曲折，綜合各方指引文，先有以下結果：1.PTHi 低 2. Vitamin D  25(OH)D是normal range，然後醫院是沒有1,25(OH)2D的，也沒有 PTHrP，驗甲狀腺功能後發現是 Subclinical Hypothyrodism，</p>
 <figure>
