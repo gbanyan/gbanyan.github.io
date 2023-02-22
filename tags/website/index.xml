@@ -1,93 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>website on 世界樹下，霍德爾之目</title>
-    <link>https://huyan.gbanyan.net/tags/website/</link>
-    <description>Recent content in website on 世界樹下，霍德爾之目</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sat, 09 Jul 2022 21:01:24 +0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo部落格網站經營</title>
-      <link>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</link>
-      <pubDate>Sat, 09 Jul 2022 21:01:24 +0800</pubDate>
-      
-      <guid>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</guid>
-      <description>網址： https://huyan.gbanyan.net
-未來計畫 增加 Cover image 增加 favicon 設定 Social metadata 設定 Comment 功能 設定 Google Analytics 加上 Cloudflare Proxy Ref
-原則 化繁為簡，以內容為重 以 Markdown Note 為基礎，盡可能降低發布成本，從 Obsidian 轉錄方便為佳 將更新維護考慮進去，重視資料標籤及最後更新日期資訊 標籤使用節制，與 Obsidian 共用同一系統 規劃 網站資訊 Hugo static site generater Hugo theme: Papermod 簡潔 Light/ Dark mode switch 支援部分 Social Metadata 支援 TOC 網址結構 URL Structure：/:year/:month/:title/ 目錄層級 About tags archives search Social Site Link Twitter
-RSS
-未來可能考慮: Github, &amp;hellip;etc
-維護流程 Hugo 與佈景更新 Hugo through macOS brew package manager Papermod theme 更新: cd themes/PaperMod git pull 發新文章 hugo new posts/title.</description>
-      <content:encoded><![CDATA[<p>網址：
-<a href="https://huyan.gbanyan.net" target="_blank" rel="noopener">https://huyan.gbanyan.net</a></p>
-<h2 id="未來計畫">未來計畫</h2>
-<ul>
-<li>增加 Cover image</li>
-<li>增加 favicon</li>
-<li>設定 Social metadata</li>
-<li>設定 Comment 功能</li>
-<li>設定 Google Analytics</li>
-<li>加上 Cloudflare Proxy</li>
-</ul>
-<p>
-<a href="https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/" target="_blank" rel="noopener">Ref</a></p>
-<h2 id="原則">原則</h2>
-<ul>
-<li>化繁為簡，以內容為重</li>
-<li>以 Markdown Note 為基礎，盡可能降低發布成本，從 Obsidian 轉錄方便為佳</li>
-<li>將更新維護考慮進去，重視資料標籤及最後更新日期資訊</li>
-<li>標籤使用節制，與 Obsidian 共用同一系統</li>
-</ul>
-<h2 id="規劃">規劃</h2>
-<h3 id="網站資訊">網站資訊</h3>
-<ul>
-<li>Hugo static site generater</li>
-<li>Hugo theme: 
-<a href="https://adityatelange.github.io/hugo-PaperMod/" target="_blank" rel="noopener">Papermod</a>
-<ul>
-<li>簡潔</li>
-<li>Light/ Dark mode switch</li>
-<li>支援部分 Social Metadata</li>
-<li>支援 TOC</li>
-</ul>
-</li>
-<li>網址結構 URL Structure：<code>/:year/:month/:title/</code></li>
-</ul>
-<h3 id="目錄層級">目錄層級</h3>
-<ul>
-<li>About</li>
-<li>tags</li>
-<li>archives</li>
-<li>search</li>
-</ul>
-<h3 id="social-site-link">Social Site Link</h3>
-<ul>
-<li>
-<p>Twitter</p>
-</li>
-<li>
-<p>RSS</p>
-</li>
-<li>
-<p>未來可能考慮: Github, &hellip;etc</p>
-</li>
-</ul>
-<h2 id="維護流程">維護流程</h2>
-<h3 id="hugo-與佈景更新">Hugo 與佈景更新</h3>
-<ul>
-<li>Hugo through macOS brew package manager</li>
-<li>Papermod theme 更新:</li>
-</ul>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd themes/PaperMod 
-</span></span><span style="display:flex;"><span>git pull
-</span></span></code></pre></div><h3 id="發新文章">發新文章</h3>
-<ul>
-<li><code>hugo new posts/title.md</code></li>
-<li>填入 Markdown 內容，修改標籤及 draft 狀態</li>
-</ul>
-]]></content:encoded>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>website - 標籤 - 世界樹下，霍德爾之目</title>
+        <link>https://huyan.gbanyan.net/tags/website/</link>
+        <description>website - 標籤 - 世界樹下，霍德爾之目</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
+            <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Sat, 09 Jul 2022 21:01:24 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/website/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo部落格網站經營</title>
+    <link>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</link>
+    <pubDate>Sat, 09 Jul 2022 21:01:24 &#43;0800</pubDate>
+    <author>Gbanyan</author>
+    <guid>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</guid>
+    <description><![CDATA[網址： https://huyan.gbanyan.net 未來計畫 增加 Cover image 增加 favicon 設定 Social metadata 設定 Comment 功能 設定 Google Analytics 加上 Cloudflare Proxy Ref 原則 化繁為簡，以內容為重 以 Markdown Note 為基礎，盡可能降低發布成本，從 Obsidian 轉錄方便為佳]]></description>
+</item>
+</channel>
 </rss>
