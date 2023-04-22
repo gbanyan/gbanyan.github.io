@@ -88,3 +88,9 @@ https://www.suncolor.com.tw/event/books/highlysensitive/quiz.html - 高敏感族
 * 獅子嘔吐法一一把來自他人的負面情緒,吐進想像中的垃圾桶
 * 敲打法一一讓情緒恢復冷靜
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/07/%E9%AB%98%E6%95%8F%E6%84%9F%E8%80%85%E6%84%9B%E8%87%AA%E5%B7%B1%E7%9A%84-19-%E5%80%8B%E7%B7%B4%E7%BF%92-%E6%9B%B8%E6%91%98/  
+

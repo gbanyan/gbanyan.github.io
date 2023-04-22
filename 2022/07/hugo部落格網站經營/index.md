@@ -63,3 +63,9 @@ git pull
 
 - `hugo new posts/title.md`
 - 填入 Markdown 內容，修改標籤及 draft 狀態
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/  
+

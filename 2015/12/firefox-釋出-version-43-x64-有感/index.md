@@ -22,3 +22,9 @@
 不過上大學以後，Chrome就開始興起了。有了Firefox的經驗，Chrome的擴充套件完善速度更快，加上背後有Google強力撐腰，在Google首頁大力宣傳，在一般非資訊科技相關人士間傳播得更快，Firefox就相形失色了。另外Google投注的開發資源也較豐富，所以很快得Firefox的效能就被追過了。不過後來Firefox仍秉持著核心理念力求發展，將業務拓展到行動裝置以及對外謀求合作，我後來看到的最新消息是與三星合作未來會推出以Rust撰寫的Servo排版引擎。
 
 不得不說，現今網路的蓬勃，有一部分就是因為Firefox在那個時期跳出來挑戰Internet Explorer，攪亂了一池春水。雖然現在網路瀏覽器以Chrome為主宰，但是Google的政策讓Chrome愈來愈肥大（程式碼與Chrome OS 共用, 背景執行太多資料同步），微軟在新的作業系統Windows 10 裡也推出了Edge試圖汰換掉原先的IE, 不過功能仍太過於陽春，Firefox儘管已經退出眾人的焦點之外，但是作為網路革新的前輩，他的一舉一動仍然有影響力。
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2015/12/firefox-%E9%87%8B%E5%87%BA-version-43-x64-%E6%9C%89%E6%84%9F/  
+

@@ -6,3 +6,9 @@ layout: "archives"
 url: "/archives/"
 summary: archives
 ---
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/archives/  
+

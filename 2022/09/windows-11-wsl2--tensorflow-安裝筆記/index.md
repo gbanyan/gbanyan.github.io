@@ -54,3 +54,9 @@
     - VS Code 安裝 Python, Remote-SSH, 等套件  
     - 設定 SSH 連線到 Remote 開啟資料夾後，python interpreter 可以選擇 conda 創建好的環境有安裝 jupyter 套件的環境  
     - 開新的 jupyter-notebook 即可在 VS Code 內開發
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/09/windows-11-wsl2--tensorflow-%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/  
+

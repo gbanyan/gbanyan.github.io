@@ -16,3 +16,9 @@
 如同舊日時光般，徒然，消散
 
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/07/%E6%95%A3%E8%90%BD%E6%AE%B5%E8%90%BD/  
+

@@ -8,3 +8,9 @@ layout: "search" # is necessary
 summary: "search"
 placeholder: ""
 ---
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/search/  
+

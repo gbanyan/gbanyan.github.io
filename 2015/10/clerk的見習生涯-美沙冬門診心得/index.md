@@ -26,3 +26,9 @@
 <blockquote><p><strong>參考資料</strong></p><ol><li><p><a href="http://taichung.tzuchi.com.tw/w/?id=1323&amp;parent_id=1324" target="_blank">台中慈濟醫院 身心科</a></p></li><li><p><a href="http://www.tpech.gov.taipei/ct.asp?xItem=665127&amp;ctNode=14308&amp;mp=109231" target="_blank">台北市立聯合醫院</a></p></li></ol></blockquote></p>
 
 {{< /rawhtml >}}
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2015/10/clerk%E7%9A%84%E8%A6%8B%E7%BF%92%E7%94%9F%E6%B6%AF-%E7%BE%8E%E6%B2%99%E5%86%AC%E9%96%80%E8%A8%BA%E5%BF%83%E5%BE%97/  
+

@@ -164,3 +164,9 @@
   		- Heart failure: just monitor the signs of hypoperfusion  
   		- Nephrotic syndrome: higher dose of diuretics is needed because transport of the diuretic into the tubular lumen is impaired.  
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2023/01/edema-%E6%B0%B4%E8%85%AB%E6%A6%82%E8%AB%96/  
+

@@ -78,3 +78,9 @@ Manjaro Gnome  最讓我驚奇的是，他有內建 Pop OS! 的 Tiling Window ex
 ## 結尾
 
 總之，我現在停留在 Manjaro Gnome 桌面環境了，至少內建的桌面 extension, 程式碼編輯器、瀏覽器、VMWare 裝一裝也日常也還可以用。Manjaro 雖然承襲自 Arch Linux, 但是穩定性不會三天兩頭就炸掉。
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2021/06/%E5%86%8D%E6%8E%A2-linux%E6%A1%8C%E9%9D%A2-manjaro-linux-%E7%9A%84%E6%BC%AB%E9%81%8A/  
+

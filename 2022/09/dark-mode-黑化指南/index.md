@@ -39,3 +39,9 @@
         - ~~透過指令介面完成所有工作，vim 是日常程式碼編輯器，GUI 滾一邊去~~  
 
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/09/dark-mode-%E9%BB%91%E5%8C%96%E6%8C%87%E5%8D%97/  
+

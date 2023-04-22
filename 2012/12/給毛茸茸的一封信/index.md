@@ -32,3 +32,9 @@
 P.S. 對了，毛茸茸，你的隊輔名牌在我這，我會永遠地把他收好的。
 
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2012/12/%E7%B5%A6%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/  
+

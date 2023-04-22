@@ -79,3 +79,9 @@
   	- Tailscale [OPNsense安装配置Tailscale | 鐵血男兒的BLOG](https://pfschina.org/wp/?p=9163)  
   	- Wireguard [How to Set Up WireGuard in OPNsense in 2023 - WunderTech](https://www.wundertech.net/how-to-set-up-wireguard-in-opnsense/)  
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2023/01/opnsense-%E5%9C%A8-proxmox-ve-%E5%85%A7%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/  
+

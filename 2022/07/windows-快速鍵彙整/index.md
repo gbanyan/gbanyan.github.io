@@ -69,3 +69,9 @@
 1. Win鍵 + Ctrl + 左鍵：切換至左側虛擬桌面
 2. Win鍵 + Ctrl + 右鍵：切換至右側虛擬桌面
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/07/windows-%E5%BF%AB%E9%80%9F%E9%8D%B5%E5%BD%99%E6%95%B4/  
+

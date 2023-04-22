@@ -68,3 +68,9 @@
             * 不穩定的睡眠、精神是常被誘發的加重因子
 
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/self-review/  
+

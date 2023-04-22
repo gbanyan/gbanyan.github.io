@@ -75,3 +75,9 @@
 - [pfBlockerNG设置指南 | 鐵血男兒的BLOG](https://pfschina.org/wp/?p=6505#IPv4%E6%8A%91%E5%88%B6%E5%88%97%E8%A1%A8)
 - [pfSense安装AdGuardHome | 鐵血男兒的BLOG](https://pfschina.org/wp/?p=6686)
 
+
+---
+
+> 作者: Gbanyan  
+> URL: https://huyan.gbanyan.net/2022/08/proxmox-ve--pfsense-%E5%AE%89%E8%A3%9D/  
+
