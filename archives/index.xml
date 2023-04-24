@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive 歷年文章 on 世界樹下，霍德爾之目</title>
+    <link>https://huyan.gbanyan.net/archives/</link>
+    <description>Recent content in Archive 歷年文章 on 世界樹下，霍德爾之目</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
+    <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster>
+    <copyright>2023 © 世界樹下，霍德爾之目</copyright><atom:link href="https://huyan.gbanyan.net/archives/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
