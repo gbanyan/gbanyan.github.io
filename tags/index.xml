@@ -5,11 +5,11 @@
     <description>Tags - 標籤 - 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
       <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 01 May 2023 16:32:48 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>draft</title>
-  <link>https://huyan.gbanyan.net/tags/draft/</link>
+  <title>Biostatistics</title>
+  <link>https://huyan.gbanyan.net/tags/biostatistics/</link>
   <pubDate>Mon, 01 May 2023 16:32:48 &#43;0800</pubDate>
   <author>Gbanyan</author>
-  <guid>https://huyan.gbanyan.net/tags/draft/</guid>
+  <guid>https://huyan.gbanyan.net/tags/biostatistics/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -34,14 +34,6 @@
   <pubDate>Mon, 01 May 2023 14:31:48 &#43;0800</pubDate>
   <author>Gbanyan</author>
   <guid>https://huyan.gbanyan.net/tags/unboxing/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Biostatistics</title>
-  <link>https://huyan.gbanyan.net/tags/biostatistics/</link>
-  <pubDate>Wed, 26 Apr 2023 20:33:44 &#43;0800</pubDate>
-  <author>Gbanyan</author>
-  <guid>https://huyan.gbanyan.net/tags/biostatistics/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -82,6 +74,14 @@
   <pubDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</pubDate>
   <author>Gbanyan</author>
   <guid>https://huyan.gbanyan.net/tags/machine_learning/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Windows</title>
+  <link>https://huyan.gbanyan.net/tags/windows/</link>
+  <pubDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</pubDate>
+  <author>Gbanyan</author>
+  <guid>https://huyan.gbanyan.net/tags/windows/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
