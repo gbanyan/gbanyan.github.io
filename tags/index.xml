@@ -4,7 +4,15 @@
     <link>https://huyan.gbanyan.net/tags/</link>
     <description>Tags - 標籤 - 世界樹下，霍德爾之目</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
-      <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 01 May 2023 14:31:48 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 01 May 2023 16:32:48 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>draft</title>
+  <link>https://huyan.gbanyan.net/tags/draft/</link>
+  <pubDate>Mon, 01 May 2023 16:32:48 &#43;0800</pubDate>
+  <author>Gbanyan</author>
+  <guid>https://huyan.gbanyan.net/tags/draft/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>3C</title>
   <link>https://huyan.gbanyan.net/tags/3c/</link>
   <pubDate>Mon, 01 May 2023 14:31:48 &#43;0800</pubDate>
@@ -74,14 +82,6 @@
   <pubDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</pubDate>
   <author>Gbanyan</author>
   <guid>https://huyan.gbanyan.net/tags/machine_learning/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Windows</title>
-  <link>https://huyan.gbanyan.net/tags/windows/</link>
-  <pubDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</pubDate>
-  <author>Gbanyan</author>
-  <guid>https://huyan.gbanyan.net/tags/windows/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
