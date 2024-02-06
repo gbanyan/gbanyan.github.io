@@ -2,13 +2,12 @@
   <channel>
     <title>Biostatistics - 標籤 - 世界樹下，霍德爾之目</title>
     <link>https://huyan.gbanyan.net/tags/biostatistics/</link>
-    <description>Biostatistics - 標籤 - 世界樹下，霍德爾之目</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
-      <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 01 May 2023 16:32:48 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/biostatistics/" rel="self" type="application/rss+xml" /><item>
+    <description>Biostatistics - 標籤 | 世界樹下，霍德爾之目</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 01 May 2023 16:32:48 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/biostatistics/" rel="self" type="application/rss+xml" /><item>
   <title>Tests of Hypothesis Involving Two Samples</title>
   <link>https://huyan.gbanyan.net/2023/05/tests-of-hypothesis-involving-two-samples/</link>
   <pubDate>Mon, 01 May 2023 16:32:48 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2023/05/tests-of-hypothesis-involving-two-samples/</guid>
   <description><![CDATA[<p>此篇筆記記載生物統計中牽扯到兩個樣本比較的討論。</p>]]></description>
 </item>
@@ -16,7 +15,7 @@
   <title>生物統計研讀筆記 - One Sample Tests of Hypothesis</title>
   <link>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-one-sample-tests-of-hypothesis/</link>
   <pubDate>Wed, 26 Apr 2023 20:33:44 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-one-sample-tests-of-hypothesis/</guid>
   <description><![CDATA[<p>生物統計研讀中，關於 One Sampe 假說檢定章節的筆記。</p>]]></description>
 </item>
@@ -24,7 +23,7 @@
   <title>生物統計研讀筆記 - Establish Hypothesis 建立假設</title>
   <link>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-establish-hypothesis-%E5%BB%BA%E7%AB%8B%E5%81%87%E8%A8%AD/</link>
   <pubDate>Wed, 26 Apr 2023 13:39:00 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-establish-hypothesis-%E5%BB%BA%E7%AB%8B%E5%81%87%E8%A8%AD/</guid>
   <description><![CDATA[<p>正在研讀中的生物統計中，如何建立基本假設的步驟</p>]]></description>
 </item>
@@ -32,7 +31,7 @@
   <title>生物統計研讀筆記 - Sample Distribution 樣本分佈</title>
   <link>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-sample-distribution-%E6%A8%A3%E6%9C%AC%E5%88%86%E4%BD%88/</link>
   <pubDate>Mon, 24 Apr 2023 19:10:31 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-sample-distribution-%E6%A8%A3%E6%9C%AC%E5%88%86%E4%BD%88/</guid>
   <description><![CDATA[<p>正在學習的生物統計中的樣本分佈的重點摘錄。</p>]]></description>
 </item>
@@ -40,7 +39,7 @@
   <title>生物統計研讀筆記 - Probability Distribution 機率分佈</title>
   <link>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-probability-distribution-%E6%A9%9F%E7%8E%87%E5%88%86%E4%BD%88/</link>
   <pubDate>Mon, 24 Apr 2023 18:45:37 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-probability-distribution-%E6%A9%9F%E7%8E%87%E5%88%86%E4%BD%88/</guid>
   <description><![CDATA[<p>生物統計書籍內，描述間斷數據與連續數據的機率分佈概念</p>]]></description>
 </item>
@@ -48,7 +47,7 @@
   <title>生物統計研讀筆記 - 基礎與如何描述資料分布</title>
   <link>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-%E5%9F%BA%E7%A4%8E%E8%88%87%E5%A6%82%E4%BD%95%E6%8F%8F%E8%BF%B0%E8%B3%87%E6%96%99%E5%88%86%E5%B8%83/</link>
   <pubDate>Mon, 24 Apr 2023 18:05:08 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2023/04/%E7%94%9F%E7%89%A9%E7%B5%B1%E8%A8%88%E7%A0%94%E8%AE%80%E7%AD%86%E8%A8%98-%E5%9F%BA%E7%A4%8E%E8%88%87%E5%A6%82%E4%BD%95%E6%8F%8F%E8%BF%B0%E8%B3%87%E6%96%99%E5%88%86%E5%B8%83/</guid>
   <description><![CDATA[<p>學習 An Introduction to Biostatistic 並準備博士班資格考的筆記，
 順便測試佈景的 Katex 能不能運作。</p>]]></description>

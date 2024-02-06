@@ -2,13 +2,12 @@
   <channel>
     <title>Tags - 標籤 - 世界樹下，霍德爾之目</title>
     <link>https://huyan.gbanyan.net/tags/</link>
-    <description>Tags - 標籤 - 世界樹下，霍德爾之目</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
-      <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 05 Feb 2024 16:12:17 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <description>Tags - 標籤 | 世界樹下，霍德爾之目</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Mon, 05 Feb 2024 16:12:17 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/" rel="self" type="application/rss+xml" /><item>
   <title>Creation</title>
   <link>https://huyan.gbanyan.net/tags/creation/</link>
   <pubDate>Mon, 05 Feb 2024 16:12:17 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/creation/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -16,7 +15,7 @@
   <title>Life</title>
   <link>https://huyan.gbanyan.net/tags/life/</link>
   <pubDate>Mon, 05 Feb 2024 16:12:17 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/life/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -24,7 +23,7 @@
   <title>Browser</title>
   <link>https://huyan.gbanyan.net/tags/browser/</link>
   <pubDate>Wed, 09 Aug 2023 21:22:23 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/browser/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -32,7 +31,7 @@
   <title>macOS</title>
   <link>https://huyan.gbanyan.net/tags/macos/</link>
   <pubDate>Wed, 09 Aug 2023 21:22:23 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/macos/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -40,7 +39,7 @@
   <title>Medicine</title>
   <link>https://huyan.gbanyan.net/tags/medicine/</link>
   <pubDate>Tue, 20 Jun 2023 13:03:59 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/medicine/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -48,7 +47,7 @@
   <title>Game</title>
   <link>https://huyan.gbanyan.net/tags/game/</link>
   <pubDate>Tue, 02 May 2023 13:28:16 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/game/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -56,7 +55,7 @@
   <title>Biostatistics</title>
   <link>https://huyan.gbanyan.net/tags/biostatistics/</link>
   <pubDate>Mon, 01 May 2023 16:32:48 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/biostatistics/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -64,7 +63,7 @@
   <title>3C</title>
   <link>https://huyan.gbanyan.net/tags/3c/</link>
   <pubDate>Mon, 01 May 2023 14:31:48 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/3c/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -72,7 +71,7 @@
   <title>Unboxing</title>
   <link>https://huyan.gbanyan.net/tags/unboxing/</link>
   <pubDate>Mon, 01 May 2023 14:31:48 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/unboxing/</guid>
   <description><![CDATA[]]></description>
 </item>
@@ -80,7 +79,7 @@
   <title>FreeBSD</title>
   <link>https://huyan.gbanyan.net/tags/freebsd/</link>
   <pubDate>Sun, 29 Jan 2023 18:46:18 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/tags/freebsd/</guid>
   <description><![CDATA[]]></description>
 </item>

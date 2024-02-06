@@ -2,13 +2,12 @@
   <channel>
     <title>website - 標籤 - 世界樹下，霍德爾之目</title>
     <link>https://huyan.gbanyan.net/tags/website/</link>
-    <description>website - 標籤 - 世界樹下，霍德爾之目</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
-      <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Sat, 09 Jul 2022 21:01:24 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/website/" rel="self" type="application/rss+xml" /><item>
+    <description>website - 標籤 | 世界樹下，霍德爾之目</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Sat, 09 Jul 2022 21:01:24 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/website/" rel="self" type="application/rss+xml" /><item>
   <title>Hugo部落格網站經營</title>
   <link>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</link>
   <pubDate>Sat, 09 Jul 2022 21:01:24 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2022/07/hugo%E9%83%A8%E8%90%BD%E6%A0%BC%E7%B6%B2%E7%AB%99%E7%B6%93%E7%87%9F/</guid>
   <description><![CDATA[網址： https://huyan.gbanyan.net 未來計畫 增加 Cover image 增加 favicon 設定 Social metadata 設定 Comment 功能 設定 Google Analytics 加上 Cloudflare Proxy Ref 原則 化繁為簡，以內容為重 以 Markdown Note 為基礎，盡可能降低發布成本，從 Obsidian 轉錄方便為佳]]></description>
 </item>

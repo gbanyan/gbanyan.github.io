@@ -2,13 +2,12 @@
   <channel>
     <title>Windows - 標籤 - 世界樹下，霍德爾之目</title>
     <link>https://huyan.gbanyan.net/tags/windows/</link>
-    <description>Windows - 標籤 - 世界樹下，霍德爾之目</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>gbanyan.huang@gmail.com (Gbanyan)</managingEditor>
-      <webMaster>gbanyan.huang@gmail.com (Gbanyan)</webMaster><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/windows/" rel="self" type="application/rss+xml" /><item>
+    <description>Windows - 標籤 | 世界樹下，霍德爾之目</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><copyright>2023 © 世界樹下，霍德爾之目</copyright><lastBuildDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</lastBuildDate><atom:link href="https://huyan.gbanyan.net/tags/windows/" rel="self" type="application/rss+xml" /><item>
   <title>Windows 11 WSL2 &#43; Tensorflow 安裝筆記</title>
   <link>https://huyan.gbanyan.net/2022/09/windows-11-wsl2--tensorflow-%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</link>
   <pubDate>Sat, 10 Sep 2022 00:26:07 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2022/09/windows-11-wsl2--tensorflow-%E5%AE%89%E8%A3%9D%E7%AD%86%E8%A8%98/</guid>
   <description><![CDATA[前言 原本家裡的個人 PC，只有玩遊戲用途，原先安裝 Windows 已啟動 Secure boot，且又套用 AMD Raid 來擴充磁碟空間儲放 Steam 遊戲 近日研究有使用 Python 機器學習程式撰寫需求]]></description>
 </item>
@@ -16,7 +15,7 @@
   <title>Windows 快速鍵彙整</title>
   <link>https://huyan.gbanyan.net/2022/07/windows-%E5%BF%AB%E9%80%9F%E9%8D%B5%E5%BD%99%E6%95%B4/</link>
   <pubDate>Sat, 09 Jul 2022 18:10:31 &#43;0800</pubDate>
-  <author>Gbanyan</author>
+  <author>作者</author>
   <guid>https://huyan.gbanyan.net/2022/07/windows-%E5%BF%AB%E9%80%9F%E9%8D%B5%E5%BD%99%E6%95%B4/</guid>
   <description><![CDATA[快速鍵記憶原則: 快速鍵後面搭配的字母常常和功能相關 視窗操控: 切換視窗: Alt + Tab 切換視窗內分頁: Ctrl + Tab(有分頁軟體適用，如windows系統]]></description>
 </item>
